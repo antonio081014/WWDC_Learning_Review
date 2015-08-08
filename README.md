@@ -360,5 +360,132 @@ Graphics and Games
 
 # WWDC 2012
 
+### General
+- 100 Keynote 
+- 101 Platforms Kickoff
+
+### Essentials
+- 200 What's New in Cocoa Touch 
+- 202 Introduction to Auto Layout for iOS and OS X 
+- 203 Accessibility for OS X 
+- 204 What's New in Cocoa 
+- 205 Introducing Collection Views 
+- 206 Secure Automation Techniques in OS X  
+- 208 Saving and Restoring Application State on iOS  
+- 209 iCloud Storage Overview  
+- 210 Accessibility for iOS 
+- 211 Building Concurrent User Interfaces on iOS 
+- 212 Basics+Habits: Building Your Software Projects To Last 
+- 213 Introduction to High Resolution on OS X 
+- 214 Core Data Best Practices 
+- 215 Text and Linguistic Analysis  
+- 216 Advanced Appearance Customization on iOS  
+- 217 Layer-Backed Views: AppKit + Core Animation  
+- 218 Using iCloud with UIDocument  
+- 219 Advanced Collection Views and Building Custom Layouts  
+- 220 Keyboard Input in iOS  
+- 221 iOS User Interface Design  
+- 222 Introduction to Attributed Strings for iOS  
+- 223 Enhancing User Experience with Scroll Views 
+- 224 Using iCloud with NSDocument  
+- 225 Up and Running: Making a Great Impression with Every Launch  
+- 226 Core Text and Fonts 
+- 227 Using iCloud with Core Data 
+- 228 Best Practices for Mastering Auto Layout 
+- 230 Advanced Attributed Strings for iOS  
+- 231 What's New with Gestures  
+- 232 Auto Layout by Example  
+- 233 Building Advanced Gesture Recognizers  
+- 234 AirPrint  
+- 235 iOS App Performance: Responsiveness  
+- 236 The Evolution of View Controllers on iOS  
+- 237 Advanced iCloud Document Storage  
+- 238 iOS App Performance: Graphics and Animations  
+- 240 Polishing Your Interface Rotations  
+- 241 Cocoa Interprocess Communication with XPC 
+- 242 iOS App Performance: Memory  
+- 243 iPhoto for iOS: UI Progression and Animation Design  
+- 244 Internationalization Tips and Tricks  
+- 245 Advanced Tips and Tricks for High Resolution on OS X
+
+### App Services
+- 300 Getting Around Using Map Kit  
+- 301 Introducing Passbook, Part 1  
+- 302 Selling Products with Store Kit  
+- 303 Staying on Track with Location Services  
+- 304 Events and Reminders in Event Kit  
+- 305 What's New in iTunes Connect for App Developers  
+- 306 Integrating With Facebook, Twitter and Sina Weibo  
+- 307 Building Great Newsstand Apps  
+- 308 Managing Subscriptions with In-App Purchase  
+- 309 Introducing Passbook, Part 2  
+- 311 Building and Distributing Custom B2B Apps for iOS 
+
+### Developer Tools
+- 400 Developer Tools Kickoff  
+- 402 Working Efficiently with Xcode 
+- 404 Building from the Command Line with Xcode  
+- 405 Modern Objective-C 
+- 406 Adopting Automatic Reference Counting  
+- 407 Adopting Storyboards in Your App 
+- 408 Working with Schemes and Projects in Xcode  
+- 409 Learning Instruments  
+- 410 What's New in LLVM  
+- 411 Source Control Management in Xcode  
+- 412 Debugging in Xcode  
+- 413 Migrating to Modern Objective-C  
+- 414 Building, Archiving, and Submitting Your App 
+- 415 Debugging with LLDB 
+
+### Graphics, Media & Games
+- 500 Game Technologies Kickoff  
+- 501 Publishing with the iBookstore  
+- 502 Effective HTTP Live Streaming 
+- 503 Building Books with iBooks Author  
+- 504 Introducing Scene Kit 
+- 505 Audio Session and Multiroute Audio in iOS  
+- 506 Optimizing 2D Graphics and Animation Performance  
+- 508 What's New in Game Center  
+- 509 Building Interactive Books with EPUB 3 and JavaScript  
+- 510 Getting Started with Core Image  
+- 511 Core Image Techniques  
+- 512 What's New in HTTP Live Streaming  
+- 513 Advances in OpenGL and OpenGL ES  
+- 514 OpenGL ES Tools and Techniques  
+- 515 HTML, CSS, and DOM for Book Authors  
+- 516 Integrating Your Games with Game Center  
+- 517 Real-Time Media Effects and Processing during Playback  
+- 518 Improving Accessibility in Books  
+- 519 Multiplayer Gaming with Game Center  
+- 520 What's New in Camera Capture  
+- 521 Building Game Center Games for OS X  
+- 522 Adopting OpenCL in Your Application  
+- 523 Best Practices for Color Management  
+- 524 Understanding Core Motion 
+
+### Safari & Web
+- 600 Debugging UIWebViews and Websites on iOS  
+- 601 Optimizing Web Content in UIWebViews and Websites on iOS  
+- 602 Delivering Web Content on High Resolution Displays  
+- 603 Tools, Services, and APIs for iTunes Affiliate Program Marketing  
+- 604 Advanced Effects with HTML5 Media Technologies  
+- 605 Producing Rich Media Advertisements for iAd 
+
+### Core OS
+- 700 The OS X App Sandbox  
+- 701 iOS Accessories  
+- 702 Gatekeeper and Developer ID 
+- 703 Core Bluetooth 101 
+- 704 The Security Framework  
+- 705 Advanced Core Bluetooth  
+- 706 Networking Best Practices  
+- 707 Simplify Networking with Bonjour  
+- 708 The Accelerate Framework 
+- 709 What's New In The Filesystem  
+- 710 Privacy Support in iOS and OS X  
+- 711 Power Management  
+- 712 Asynchronous Design Patterns with Blocks, GCD, and XPC 
+- 714 Protecting the User's Data
+
 # License
 [MIT](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/LICENSE)
