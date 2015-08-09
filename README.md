@@ -166,7 +166,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - 234 Building a Document-based App 
 - 235 Advanced Scrollviews and Touch Handling Techniques 
 - 236 Building Interruptible and Responsive Interactions 
-- 237 [A Strategy for Great Work](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20237%20A%20Strategy%20for%20Great%20Work/WWDC2014%20Session%20237%20A%20Strategy%20for%20Great%20Work.md)
+- [237 ~~A Strategy for Great Work~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20237%20A%20Strategy%20for%20Great%20Work/WWDC2014%20Session%20237%20A%20Strategy%20for%20Great%20Work.md)
 
 ### Services
 - 301 Affiliate Tools for App Developers 
@@ -377,7 +377,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - 208 Saving and Restoring Application State on iOS  
 - 209 iCloud Storage Overview  
 - 210 Accessibility for iOS 
-- 211 Building Concurrent User Interfaces on iOS 
+- [~~211 Building Concurrent User Interfaces on iOS~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2012/WWDC2012%20Session%20211%20Building%20Concurrent%20User%20Interfaces%20on%20iOS/WWDC2012%20Session%20211%20Building%20Concurrent%20User%20Interfaces%20on%20iOS.md)
 - 212 Basics+Habits: Building Your Software Projects To Last 
 - 213 Introduction to High Resolution on OS X 
 - 214 Core Data Best Practices 
