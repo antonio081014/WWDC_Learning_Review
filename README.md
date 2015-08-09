@@ -2,6 +2,7 @@
 Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 # WWDC 2015
+
 ### Featured
 - 101 Keynote 
 - 102 Platforms State of the Union 
@@ -84,7 +85,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - 510 What's New in Core Image 
 - 511 Safari Extensibility: Content Blocking and Shared Links
  
-Graphics and Games
+### Graphics and Games
 - 602 Managing 3D Assets with Model I/O 
 - 603 What's New in Metal, Part 1 
 - 604 What's New in SpriteKit 
@@ -115,6 +116,7 @@ Graphics and Games
 - 718 Building Responsive and Efficient Apps with GCD 
 - 719 Your App and Next Generation Networks 
 - 720 What's New in Notifications
+
 ### Design
 - 801 Designing for Future Hardware 
 - 802 Designing for Apple Watch 
@@ -127,6 +129,7 @@ Graphics and Games
 - 101 Keynote 
 - 102 Platforms State of the Union 
 - 103 Apple Design Awards
+
 ### Frameworks
 - 201 Advanced Topics in Internationalization 
 - 202 What's New in Cocoa Touch 
