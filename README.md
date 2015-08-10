@@ -277,7 +277,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - 221 Advanced Techniques with UIKit Dynamics 
 - 222 What’s New in State Restoration 
 - 223 Using Fonts with Text Kit 
-- 224 Designing Code for Performance 
+- [~~224 Designing Code for Performance~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2013/WWDC2013%20Session%20224%20Designing%20Code%20for%20Performance/WWDC2013%20Session%20224%20Designing%20Code%20for%20Performance.md)
 - 225 Best Practices for Great iOS UI Design 
 - 226 Implementing Engaging UI on iOS 
 - 227 Solutions to Common Date and Time Challenges 
