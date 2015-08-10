@@ -150,7 +150,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - 218 Designing a Great In-App Purchase Experience 
 - 219 Adopting Handoff on iOS and OS X 
 - 220 Adopting Advanced Features of the New UI of OS X Yosemite 
-- 221 Creating Custom iOS User Interfaces 
+- [~~221 Creating Custom iOS User Interfaces~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20221%20Creating%20Custom%20iOS%20User%20Interface/WWDC2014%20Session%20221%20Creating%20Custom%20iOS%20User%20Interface.md)
 - 222 Optimize Your Earning Power With iAd 
 - 223 Prototyping: Fake It Till You Make It 
 - 224 Core iOS Application Architectural Patterns 
