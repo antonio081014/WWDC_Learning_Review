@@ -59,7 +59,7 @@ How to use CAShapeLayer back up the `UIView` as the base layer. In `UIView` subc
 ```
 How to draw part of the path for CAShapeLayer, by setting strokeStart and strokeEnd.
 ## 4. **Dyanmic Core Animation behaviors**
-This is probably the most challenging part for me, so many sample code on [`CABasicAnimation`](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CABasicAnimation_class/index.html). I think have a good use of CAAction delegate and CALayer Delegate method could greatly help your custom `UIView` subclass have great animation effect when `UIView`’s properties are changed. Also, developer could define customized property, which could be very powerful. By using this technique, developer could not only customize animation behavior, but also disable system’s default animation behaviors.
+This is probably the most challenging part for me, so many sample code on [`CABasicAnimation`](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CABasicAnimation_class/index.html). I think have a good use of [`CAAction`](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CAAction_protocol/index.html) Protocol and [`CALayerDelegate`](https://developer.apple.com/library/ios/documentation/QuartzCore/Reference/CALayerDelegate_protocol/) method could greatly help your custom `UIView` subclass have great animation effect when `UIView`’s properties are changed. Also, developer could define customized property, which could be very powerful. By using this technique, developer could not only customize animation behavior, but also disable system’s default animation behaviors.
 
 Here is a simple piece of demo:
 ```
