@@ -61,4 +61,109 @@ How to draw part of the path for CAShapeLayer, by setting strokeStart and stroke
 ## 4. **Dyanmic Core Animation behaviors**
 This is probably the most challenging part for me, so many sample code on [`CABasicAnimation`](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CABasicAnimation_class/index.html). I think have a good use of CAAction delegate and CALayer Delegate method could greatly help your custom `UIView` subclass have great animation effect when `UIView`’s properties are changed. Also, developer could define customized property, which could be very powerful. By using this technique, developer could not only customize animation behavior, but also disable system’s default animation behaviors.
 
+Here is a simple piece of demo:
+```
+//
+//  CustomAnimationView.m
+//  Sample
+//
+//  Created by Antonio081014 on 8/9/15.
+//  Copyright (c) 2015 antonio081014.com. All rights reserved.
+//
+
+#import "CustomAnimationView.h"
+
+@interface CustomAnimationAction : NSObject <CAAction>
+@end
+
+@implementation CustomAnimationAction
+
+- (void)runActionForKey:(NSString *)event object:(id)anObject arguments:(NSDictionary *)dict
+{
+    if ([event isEqualToString:@"opacity"]) {
+        CALayer *layer = (CALayer *)anObject;
+        CFTimeInterval duration = .75;
+        
+        CABasicAnimation *bgAnimation = [CABasicAnimation animationWithKeyPath:@"backgroundColor"];
+        bgAnimation.duration = duration;
+        bgAnimation.fromValue = (id)[layer.presentationLayer backgroundColor];
+        bgAnimation.toValue = (id)([UIColor colorWithHue:layer.opacity saturation:1.f brightness:1.f alpha:1.f].CGColor);
+        bgAnimation.fillMode = kCAFillModeForwards;
+        bgAnimation.removedOnCompletion = NO;
+        [layer addAnimation:bgAnimation forKey:@"bgColorAnim"];
+        
+        CABasicAnimation *animation = [CABasicAnimation animationWithKeyPath:@"opacity"];
+        animation.duration = duration;
+        animation.fromValue = @([layer.presentationLayer opacity]);
+        animation.toValue = @(layer.opacity);
+        animation.removedOnCompletion = NO;
+        [layer addAnimation:animation forKey:@"customKey"];
+    }
+}
+
+@end
+
+@implementation CustomAnimationView
+
++ (Class)layerClass
+{
+    return [CAShapeLayer class];
+}
+
+- (void)awakeFromNib
+{
+    [self setup];
+}
+
+- (instancetype)initWithFrame:(CGRect)frame
+{
+    if (self = [super initWithFrame:frame]) {
+        [self setup];
+    }
+    return self;
+}
+
+- (void)setup
+{
+    CAShapeLayer *layer = (CAShapeLayer *)self.layer;
+    
+    UIBezierPath *path = [UIBezierPath bezierPathWithRect:self.bounds];
+    
+    [layer setPath:path.CGPath];
+    [layer setStrokeColor:[UIColor purpleColor].CGColor];
+    [layer setLineWidth:6];
+    [layer setFillColor:nil];
+    [layer setLineCap:kCALineCapRound];
+    [layer setLineJoin:kCALineJoinBevel];
+    
+    UITapGestureRecognizer *gesture = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(tapped:)];
+    [self addGestureRecognizer:gesture];
+}
+
+- (void)tapped:(UITapGestureRecognizer *)gesture
+{
+    [UIView animateWithDuration:1.0 animations:^{
+//        CGFloat dx = arc4random() % 100 - 50;
+//        CGFloat dy = arc4random() % 100 - 50;
+//        CGFloat x = self.frame.origin.x + dx;
+//        CGFloat y = self.frame.origin.y + dy;
+//        self.frame = CGRectMake(x, y, CGRectGetWidth(self.bounds), CGRectGetHeight(self.bounds));
+        [self setAlpha:(CGFloat)(arc4random() % 10) / 10.f];
+    }];
+}
+
+- (id<CAAction>)actionForLayer:(CALayer *)layer
+                        forKey:(NSString *)key
+{
+    if ([key isEqualToString:@"opacity"]) {
+        return [[CustomAnimationAction alloc] init];
+    }
+    return [super actionForLayer:layer forKey:key];
+}
+
+@end
+
+```
+**Worth to mention** here: when Custom View's frame origin changed, the Key for the change will be **"Position"**, rather than **"Frame"**.
+
 For more information, here is a link to the [Apple Developer Official Page](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/ReactingtoLayerChanges/ReactingtoLayerChanges.html).
