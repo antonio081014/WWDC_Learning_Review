@@ -191,7 +191,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - 413 Debugging in Xcode 6 
 - 414 Testing in Xcode 6 
 - 415 Continuous Integration with Xcode 6 
-- 416 Building Modern Frameworks 
+- ~~416 Building Modern Frameworks~~
 - 417 What's New in LLVM 
 - [~~418 Improving Your App with Instruments~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014-Session418-Improving-Your-App-with-Instruments/WWDC2014%20Session418%20Improving%20Your%20App%20with%20Instruments.md)
 - 419 Advanced Graphics and Animations for iOS Apps
