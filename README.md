@@ -153,7 +153,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [~~221 Creating Custom iOS User Interfaces~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20221%20Creating%20Custom%20iOS%20User%20Interface/WWDC2014%20Session%20221%20Creating%20Custom%20iOS%20User%20Interface.md)
 - 222 Optimize Your Earning Power With iAd 
 - 223 Prototyping: Fake It Till You Make It 
-- 224 Core iOS Application Architectural Patterns 
+- [~~224 Core iOS Application Architectural Patterns~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20224%20Core%20iOS%20Application%20Architectural%20Patterns/WWDC2014%20Session%20224%20Core%20iOS%20Application%20Architectural%20Patterns.md)
 - 225 What's New in Core Data 
 - 226 What's New in Table and Collection Views 
 - 227 Creating Modern Cocoa Apps 
