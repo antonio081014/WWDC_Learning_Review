@@ -39,6 +39,7 @@ NSOperationQueue *queue = [[NSOperationQueue alloc] init];
 - Drawing APIs are safe to use from any queue
 	- if they begin and end in the same operation!
 - Must call ``-[UIImageView setImage:]`` on the main queue
+
 ### **3. Canceling Concurrent Operations**
 Cancel Operation is necessary when user does not need operation to be done anymore, it is reasonable to cancel it before it took too much computing power of battery.
 
