@@ -300,7 +300,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - 400 What’s New in Xcode 5 
 - 401 Xcode Core Concepts 
 - 402 What’s New in the LLVM Compiler 
-- 403 From Zero to App Store in Xcode 5 
+- ~~403 From Zero to App Store in Xcode 5~~
 - 404 Advances in Objective-C 
 - 405 Interface Builder Core Concepts 
 - 406 Taking Control of Auto Layout in Xcode 5 
