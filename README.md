@@ -7,7 +7,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - 101 Keynote 
 - 102 Platforms State of the Union 
 - 103 Apple Design Awards 
-- 104 What's New in Xcode 
+- ~~104 What's New in Xcode~~
 - 105 Introducing WatchKit for watchOS 2 
 - 106 What's New in Swift 
 - 107 What's New in Cocoa Touch 
