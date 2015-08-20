@@ -55,7 +55,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - 301 What's New in Managing Apple Devices 
 - 302 What's New in iTunes Connect 
 - 303 Getting the Most out of App Analytics 
-- 304 iTunes Connect: Development to Distribution 
+- ~~304 iTunes Connect: Development to Distribution~~
 - 306 Supporting the Enterprise with OS X Automation
 
 ### Developer Tools
