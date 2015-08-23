@@ -11,7 +11,8 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - 105 Introducing WatchKit for watchOS 2 
 - 106 What's New in Swift 
 - 107 What's New in Cocoa Touch 
-- 108 Building Watch Apps 112Think Audacious
+- 108 Building Watch Apps
+- 112 Think Audacious
 
 ### App Frameworks
 - 201 iOS Accessibility 
