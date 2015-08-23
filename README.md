@@ -164,9 +164,9 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - 232 Advanced User Interfaces with Collection Views 
 - 233 Sharing code between iOS and OS X 
 - 234 Building a Document-based App 
-- 235 Advanced Scrollviews and Touch Handling Techniques 
+- [~~235 Advanced Scrollviews and Touch Handling Techniques~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20235%20Advanced%20Scrollviews%20and%20Touch%20Handling%20Techniques/WWDC2014%20Session%20235%20Advanced%20Scrollviews%20and%20Touch%20Handling%20Techniques.md)
 - 236 Building Interruptible and Responsive Interactions 
-- [237 ~~A Strategy for Great Work~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20237%20A%20Strategy%20for%20Great%20Work/WWDC2014%20Session%20237%20A%20Strategy%20for%20Great%20Work.md)
+- [~~237 A Strategy for Great Work~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20237%20A%20Strategy%20for%20Great%20Work/WWDC2014%20Session%20237%20A%20Strategy%20for%20Great%20Work.md)
 
 ### Services
 - 301 Affiliate Tools for App Developers 
