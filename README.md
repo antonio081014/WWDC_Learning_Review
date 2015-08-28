@@ -271,7 +271,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 214 Customizing Your App’s Appearance for iOS 7 
 - [ ] 215 Optimizing Drawing and Scrolling on OS X 
 - [ ] 216 Bringing Your iOS Apps to OS X 
-- [ ] 217 Exploring Scroll Views on iOS 7 
+- [x] [~~217 Exploring Scroll Views on iOS 7~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2013/WWDC2013%20Session%20217%20Exploring%20Scroll%20Views%20in%20iOS%207/WWDC2013%20Session%20217%20Exploring%20Scroll%20Views%20in%20iOS%207.md)
 - [ ] 218 Custom Transitions Using View Controllers 
 - [ ] 219 Making Your App World-Ready 
 - [ ] 220 Advanced Text Layouts and Effects with Text Kit 
