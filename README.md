@@ -280,7 +280,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 223 Using Fonts with Text Kit 
 - [x] [~~224 Designing Code for Performance~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2013/WWDC2013%20Session%20224%20Designing%20Code%20for%20Performance/WWDC2013%20Session%20224%20Designing%20Code%20for%20Performance.md)
 - [ ] 225 Best Practices for Great iOS UI Design 
-- [ ] 226 Implementing Engaging UI on iOS 
+- [x] [~~226 Implementing Engaging UI on iOS~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2013/WWDC2013%20Session%20226%20Implementing%20Engaging%20UI%20on%20iOS/WWDC2013%20Session%20226%20Implementing%20Engaging%20UI%20on%20iOS.md)
 - [ ] 227 Solutions to Common Date and Time Challenges 
 - [ ] 228 Hidden Gems in Cocoa and Cocoa Touch
 
