@@ -38,3 +38,8 @@ In the second part, the session presents how to add special animation effect in 
 The demo code has been published in the [2nd release](https://github.com/antonio081014/Demo2013/releases/tag/V2.0)
 
 Hope someone could help me make a gif file and add it here for the better demo purpose.
+
+## Version 3: Memory Efficient Code
+
+In the previous version, when prepareLayout is called, all the behaviors of every cells will be created, initialized and attached to the cell. In this version, the behaviors will be added to the cell when the cell appear on the screen, be removed when the cell disappear from the screen, very effiecient.
+[The release code could be found here](https://github.com/antonio081014/Demo2013/releases/tag/V3.0).
