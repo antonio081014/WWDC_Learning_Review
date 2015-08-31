@@ -166,7 +166,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 233 Sharing code between iOS and OS X 
 - [ ] 234 Building a Document-based App 
 - [x] [~~235 Advanced Scrollviews and Touch Handling Techniques~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20235%20Advanced%20Scrollviews%20and%20Touch%20Handling%20Techniques/WWDC2014%20Session%20235%20Advanced%20Scrollviews%20and%20Touch%20Handling%20Techniques.md)
-- [ ] 236 Building Interruptible and Responsive Interactions 
+- [x] [~~236 Building Interruptible and Responsive Interactions~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20236%20Building%20Interruptible%20and%20Responsive%20Interactions/WWDC2014%20Session%20236%20Building%20Interruptible%20and%20Responsive%20Interactions.md)
 - [x] [~~237 A Strategy for Great Work~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20237%20A%20Strategy%20for%20Great%20Work/WWDC2014%20Session%20237%20A%20Strategy%20for%20Great%20Work.md)
 
 ### Services
@@ -192,7 +192,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 413 Debugging in Xcode 6 
 - [ ] 414 Testing in Xcode 6 
 - [ ] 415 Continuous Integration with Xcode 6 
-- [x] [~~416 Building Modern Frameworks~~
+- [x] ~~416 Building Modern Frameworks~~
 - [ ] 417 What's New in LLVM 
 - [x] [~~418 Improving Your App with Instruments~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20418%20Improving%20Your%20App%20with%20Instruments/WWDC2014%20Session418%20Improving%20Your%20App%20with%20Instruments.md)
 - [ ] 419 Advanced Graphics and Animations for iOS Apps
