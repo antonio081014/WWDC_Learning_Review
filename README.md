@@ -156,7 +156,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 223 Prototyping: Fake It Till You Make It 
 - [x] [~~224 Core iOS Application Architectural Patterns~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2014/WWDC2014%20Session%20224%20Core%20iOS%20Application%20Architectural%20Patterns/WWDC2014%20Session%20224%20Core%20iOS%20Application%20Architectural%20Patterns.md)
 - [ ] 225 What's New in Core Data 
-- [ ] 226 What's New in Table and Collection Views 
+- [x] ~~226 What's New in Table and Collection Views~~
 - [ ] 227 Creating Modern Cocoa Apps 
 - [ ] 228 A Look Inside Presentation Controllers 
 - [ ] 229 Advanced iOS Application Architecture and Patterns 
