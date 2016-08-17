@@ -4,7 +4,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 # WWDC 2016
 
 ### Featured
-- [x] 101 Keynote 
+- [x] ~~101 Keynote~~
 - [ ] 102 Platforms State of the Union 
 - [ ] 103 Apple Design Awards 
 - [ ] 104 Disability and Innovation: The Universal Benefits of Accessible Design 
