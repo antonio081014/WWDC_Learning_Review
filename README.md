@@ -82,7 +82,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 415 Going Server-side with Swift Open Source 
 - [ ] 416 Understanding Swift Performance 
 - [ ] 417 Debugging Tips and Tricks 
-- [ ] 418 Using Time Profiler in Instruments 
+- [ ] [~~418 Using Time Profiler in Instruments~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2016/WWDC2016%20Session%20418%20Using%20Time%20Profiler%20In%20Instruments/WWDC2016%20Session%20418%20Using%20Time%20Profiler%20In%20Instruments.md)
 - [ ] 419 Protocol and Value Oriented Programming in UIKit Apps 
 - [ ] 420 Optimizing Web Content in Your App
 
