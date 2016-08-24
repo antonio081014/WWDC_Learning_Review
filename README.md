@@ -193,7 +193,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 227 What's New in Internationalization 
 - [ ] 228 WatchKit Tips and Tricks 
 - [ ] 229 What's New in UIKit Dynamics and Visual Effects 
-- [ ] 230 Performance on iOS and watchOS 
+- [x] [~~230 Performance on iOS and watchOS~~](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/WWDC2015/WWDC2015%20Session%20230%20Performance%20on%20iOS%20and%20watchOS/WWDC2015%20Session%20230%20Performance%20on%20iOS%20and%20watchOS.md)
 - [ ] 231 Cocoa Touch Best Practices 
 - [ ] 232 Best Practices for Progress Reporting 
 - [ ] 233 Advanced Touch Input on iOS
