@@ -220,7 +220,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 409 Optimizing Swift Performance 
 - [ ] 410 Continuous Integration and Code Coverage in Xcode 
 - [ ] 411 Swift in Practice 
-- [ ] 412 Profiling in Depth 
+- [x] ~~412 Profiling in Depth~~
 - [ ] 413 Advanced Debugging and the Address Sanitizer 
 - [ ] 414 Building Better Apps with Value Types in Swift
 
