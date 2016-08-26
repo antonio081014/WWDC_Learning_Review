@@ -216,7 +216,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 405 Authoring Rich Playgrounds 
 - [ ] 406 UI Testing in Xcode 
 - [ ] 407 Implementing UI Designs in Interface Builder 
-- [ ] 408 Protocol-Oriented Programming in Swift 
+- [ ] ~~408 Protocol-Oriented Programming in Swift~~
 - [ ] 409 Optimizing Swift Performance 
 - [ ] 410 Continuous Integration and Code Coverage in Xcode 
 - [ ] 411 Swift in Practice 
