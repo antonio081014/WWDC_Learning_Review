@@ -263,7 +263,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 714 What's New in Core Location 
 - [ ] 715 CloudKit Tips and Tricks 
 - [ ] 717 What's New in Network Extension and VPN 
-- [ ] 718 Building Responsive and Efficient Apps with GCD 
+- [ ] ~~718 Building Responsive and Efficient Apps with GCD~~
 - [ ] 719 Your App and Next Generation Networks 
 - [ ] 720 What's New in Notifications
 
