@@ -61,7 +61,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 302 Introducing Search Ads
 - [ ] 303 What's New in Apple Device Management
 - [ ] 304 Best Practices for Building Apps Used in Business and Education
-- [ ] 305 What's New in iTunes Connect
+- [ ] ~~305 What's New in iTunes Connect~~
 
 ### Developer Tools
 
