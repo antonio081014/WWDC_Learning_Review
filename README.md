@@ -673,7 +673,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 122 iOS Accessibility
 - [ ] 123 Improving the Stability of Your Apps
 - [ ] 124 Twitter Integration
-- [ ] 125 UITableView Changes, Tips & Tricks
+- [ ] ~~125 UITableView Changes, Tips & Tricks~~
 - [ ] 127 Design Patterns to Simplify Mac Accessibility
 - [ ] 128 Advanced Text Processing
 - [ ] 129 Practical Drawing for iOS Developers
