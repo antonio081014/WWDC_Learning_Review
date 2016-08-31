@@ -247,7 +247,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 610 Metal Performance Optimization Techniques
  
 ### System Frameworks
-- [ ] 701 Wallet - [ ] The home for Apple Pay and more 
+- [ ] 701 Wallet - The home for Apple Pay and more 
 - [ ] 702 Apple Pay Within Apps 
 - [ ] 703 Privacy and Your App 
 - [ ] 704 What's New in CloudKit 
