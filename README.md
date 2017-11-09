@@ -6,140 +6,156 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 ### Featured
 - [x] ~~101 Keynote~~
 - [x] ~~102 Platforms State of the Union~~
-- [ ] 103 Apple Design Awards
-- [ ] 104 Disability and Innovation: The Universal Benefits of Accessible Design
-- [ ] 106 Talking In Pictures: Reconstructing the Building Blocks of Language
+- [ ] 106 From Monroe to NASA
+- [ ] 110 Convenience for You is Independence for Me
 
 ### App Frameworks
-- [ ] 201 Internationalization Best Practices
-- [ ] 202 What's New in Accessibility
-- [ ] 203 What's New in Cocoa
-- [ ] 204 iMessage Apps and Stickers, Part 1
-- [ ] 205 What's New in Cocoa Touch
-- [ ] 206 What's New in tvOS
-- [ ] 207 What's New in Foundation for Swift
-- [ ] 208 What's New in watchOS 3
-- [ ] 209 Getting the Most Out of HealthKit
-- [ ] 210 Mastering UIKit on tvOS
-- [ ] 211 Quick Interaction Techniques for watchOS
-- [ ] 212 Developing tvOS Apps Using TVMLKit: Part 1
-- [ ] 213 Improving Existing Apps with Modern Best Practices
-- [ ] 214 Extending your App with Safari App Extensions
-- [ ] 215 Focus Interaction on tvOS
-- [ ] 216 Advances in UIKit Animations and Transitions
-- [ ] 217 Introducing SiriKit
-- [ ] 218 Keeping Your Watch App Up to Date
-- [ ] 219 What's New in UICollectionView in iOS 10
-- [ ] 220 Leveraging Touch Input on iOS
-- [ ] 221 Optimizing On-Demand Resources
-- [ ] 222 Making Apps Adaptive, Part 1
-- [ ] 223 Making the Most of Search APIs
-- [ ] 224 iMessage Apps and Stickers, Part 2
-- [ ] 225 Extending Your Apps with SiriKit
-- [ ] 226 What's New with CloudKit
-- [ ] 227 Architecting for Performance on watchOS 3
-- [ ] 228 A Peek at 3D Touch
-- [ ] 229 Developing tvOS Apps Using TVMLKit: Part 2
-- [ ] 230 Enhancing VoIP Apps with CallKit
-- [ ] 231 CloudKit Best Practices
-- [ ] 232 What's New in International User Interfaces
-- [ ] 233 Making Apps Adaptive, Part 2
-- [ ] 234 What's New in ResearchKit
-- [ ] 235 Building Great Workout Apps
-- [ ] 236 What's New in Auto Layout
-- [ ] 237 Getting Started with CareKit
-- [ ] 238 Measurements and Units
-- [ ] 239 Crafting Modern Cocoa Apps
-- [ ] 240 Increase Usage of Your App With Proactive Suggestions
-- [ ] 241 Public Transit in Apple Maps
-- [ ] 242 What's New in Core Data
+- [ ] 201 What's New in Cocoa Touch
+- [ ] 202 Advances in TVMLKit
+- [ ] 203 Introducing Drag and Drop
+- [ ] 204 Updating Your App for iOS 11
+- [ ] 205 What's New in watchOS
+- [ ] 206 Introducing Password AutoFill for Apps
+- [ ] 207 What's New in Cocoa
+- [ ] 208 Natural Language Processing and your Apps
+- [ ] 209 What's New in tvOS
+- [ ] 210 What's New in Core Data
+- [ ] 211 Touch Bar Fundamentals
+- [ ] 212 What's New in Foundation
+- [ ] 213 Mastering Drag and Drop
+- [ ] 214 What's New in SiriKit
+- [ ] 215 What's New in Accessibility
+- [ ] 216 The Life of a watchOS App
+- [ ] 217 Media and Gaming Accessibility
+- [ ] 218 Choosing the Right Cocoa Container View
+- [ ] 219 Modern User Interaction on iOS
+- [ ] 220 Customized Loading in WKWebView
+- [ ] 221 What's New in Health
+- [ ] 222 Advanced Touch Bar
+- [ ] 223 Drag and Drop with Collection and Table View
+- [ ] 224 Focus Interaction in tvOS 11
+- [ ] 225 What's New in Safari View Controller
+- [ ] 226 Build Better Apps with CloudKit Dashboard
+- [ ] 227 Data Delivery with Drag and Drop
+- [ ] 228 Making Great SiriKit Experiences
+- [ ] 229 Building Great Document-based Apps in iOS 11
+- [ ] 230 Advanced Animations with UIKit
+- [ ] 231 What's New in Core Spotlight for iOS and macOS
+- [ ] 232 What's New in CareKit and ResearchKit
+- [ ] 234 What's New in iMessage Apps
+- [ ] 235 Building Visually Rich User Experiences
+- [ ] 236 Cocoa Development Tips
+- [ ] 237 What's New in MapKit
+- [ ] 238 Writing Energy Efficient Apps
+- [ ] 239 Connecting CareKit to the Cloud
+- [ ] 240 Introducing Business Chat
+- [ ] 241 Introducing PDFKit on iOS
+- [ ] 242 The Keys to a Better Text Input Experience
+- [ ] 243 File Provider Enhancements
+- [ ] 244 Efficient Interactions with Frameworks
+- [ ] 245 Building Apps with Dynamic Type
+- [ ] 246 Deep Linking on tvOS
+- [ ] 247 Extend Your App's Presence With Sharing
+- [ ] 248 Localization Best Practices on tvOS
+- [ ] 249 Filtering Unwanted Messages with Identity Lookup
+- [ ] 250 Extend Your App’s Presence with Deep Linking
+- [ ] 251 Now Playing and Remote Commands on tvOS
 
 ### Distribution
-- [ ] 301 Introducing Expanded Subscriptions in iTunes Connect
-- [ ] 302 Introducing Search Ads
-- [ ] 303 What's New in Apple Device Management
-- [ ] 304 Best Practices for Building Apps Used in Business and Education
-- [ ] 305 What's New in iTunes Connect
+- [ ] 301 Introducing the New App Store
+- [ ] 302 What's New in iTunes Connect
+- [ ] 303 What's New in StoreKit
+- [ ] 304 What's New in Device Configuration, Deployment, and Management
+- [ ] 305 Advanced StoreKit
 
 ### Developer Tools
-- [ ] 401 What's New in Xcode App Signing
+- [ ] 401 Localizing with Xcode 9
 - [ ] 402 What's New in Swift
-- [x] [~403 Swift API Design Guidelines~](WWDC2016/WWDC2016%20Session%20403%20Swift%20API%20Design%20Guidelines/WWDC2016%20Session%20403%20Swift%20API%20Design%20Guidelines.md)
-- [ ] 404 Getting Started with Swift
-- [ ] 405 What's New in LLVM
-- [ ] 406 Optimizing App Startup Time
-- [ ] 407 Auditing Your Apps for Accessibility
-- [ ] 408 Introducing Swift Playgrounds
-- [ ] 409 Advanced Testing and Continuous Integration
-- [ ] 410 Visual Debugging with Xcode
-- [ ] 411 System Trace in Depth
-- [ ] 412 Thread Sanitizer and Static Analysis
-- [ ] 413 Introduction to Xcode
-- [ ] 414 Using and Extending the Xcode Source Editor
-- [ ] 415 Going Server-side with Swift Open Source
-- [ ] 416 Understanding Swift Performance
-- [ ] 417 Debugging Tips and Tricks
-- [ ] 418 Using Time Profiler in Instruments
-- [ ] 419 Protocol and Value Oriented Programming in UIKit Apps
-- [ ] 420 Optimizing Web Content in Your App
+- [ ] 403 What's New in Signing for Xcode and Xcode Server
+- [ ] 404 Debugging with Xcode 9
+- [ ] 405 GitHub and the New Source Control Workflows in Xcode 9
+- [ ] 406 Finding Bugs Using Xcode Runtime Tools
+- [ ] 407 Understanding Undefined Behavior
+- [ ] 408 What’s New in Swift Playgrounds
+- [ ] 409 What's New in Testing
+- [ ] 410 Localizing Content for Swift Playgrounds
+- [ ] 411 What's New in LLVM
+- [ ] 412 Auto Layout Techniques in Interface Builder
+- [ ] 413 App Startup Time: Past, Present, and Future
+- [ ] 414 Engineering for Testability
+- [ ] 416 Teaching with Swift Playgrounds
 
 ### Media
-- [ ] 501 Advances in iOS Photography
-- [ ] 502 Getting Published in Apple News
-- [ ] 503 Advances in AVFoundation Playback
-- [ ] 504 What's New in HTTP Live Streaming
-- [ ] 505 Live Photo Editing and RAW Processing with Core Image
-- [ ] 506 AVKit on tvOS
-- [ ] 507 Delivering an Exceptional Audio Experience
-- [ ] 508 Using Apple News Format to Create Rich and Responsive Stories
-- [ ] 509 Speech Recognition API
-- [ ] 510 HTTP Live Streaming Authoring and Validation
-- [ ] 511 AVCapturePhotoOutput - Beyond the Basics
+- [ ] 501 What's New in Audio
+- [ ] 502 Introducing MusicKit
+- [ ] 503 Introducing HEIF and HEVC
+- [ ] 504 Advances in HTTP Live Streaming
+- [ ] 505 What's New in Photos APIs
+- [ ] 506 Vision Framework: Building on Core ML
+- [ ] 507 Capturing Depth in iPhone Photography
+- [ ] 508 Image Editing with Depth
+- [ ] 509 Introducing AirPlay 2
+- [ ] 510 Advances in Core Image: Filters, Metal, Vision, and More
+- [ ] 511 Working with HEIF and HEVC
+- [ ] 512 Apple Podcasts
+- [ ] 513 High Efficiency Image File Format
+- [ ] 514 Error Handling Best Practices for HTTP Live Streaming
+- [ ] 515 HLS Authoring Update
 
 ### Graphics and Games
-- [ ] 601 Go Live with ReplayKit
-- [ ] 602 Adopting Metal, Part 1
-- [ ] 603 Adopting Metal, Part 2
-- [ ] 604 What's New in Metal, Part 1
-- [ ] 605 What's New in Metal, Part 2
-- [ ] 606 Advanced Metal Shader Optimization
-- [ ] 607 Controlling Game Input for Apple TV
-- [ ] 608 What's New in GameplayKit
-- [ ] 609 Advances in SceneKit Rendering
-- [ ] 610 What's New in SpriteKit
-- [ ] 611 What's New in Game Center
-- [ ] 612 Game Technologies for Apple Watch
+- [ ] 601 Introducing Metal 2
+- [ ] 602 Introducing ARKit: Augmented Reality for iOS
+- [ ] 603 VR with Metal 2
+- [ ] 604 SceneKit: What's New
+- [ ] 605 SceneKit in Swift Playgrounds
+- [ ] 606 What's New with Screen Recording and Live Broadcast
+- [ ] 607 Metal 2 Optimization and Debugging
+- [ ] 608 Using Metal 2 for Compute
+- [ ] 609 Going Beyond 2D with SpriteKit
+- [ ] 610 From Art to Engine with Model I/O
 
 ### System Frameworks
-- [ ] 701 Introducing Apple File System
-- [ ] 702 Using Store Kit for In-App Purchases with Swift 3
-- [ ] 703 Apple Pay on the Web
-- [ ] 704 What's New with Wallet and Apple Pay
-- [ ] 705 How iOS Security Really Works 706What's New in Security
-- [ ] 707 Introduction to Notifications 708Advanced Notifications
-- [ ] 709 Engineering Privacy for Your Users
-- [ ] 710 What's New in HomeKit
-- [ ] 711 NSURLSession: New Features and Best Practices
-- [ ] 712 Working with Wide Color
-- [ ] 713 Health and Fitness with Core Motion
-- [ ] 714 Networking for the Modern Internet
-- [ ] 715 Neural Networks and Accelerate
-- [ ] 716 Core Location Best Practices
-- [ ] 717 Beyond Dictation — Enhanced Voice-Control for macOS apps
-- [ ] 719 Optimizing I/O for Performance and Battery Life
-- [ ] 720 Concurrent Programming With GCD in Swift 3
-- [ ] 721 Unified Logging and Activity Tracing
-- [ ] 722 Developing CarPlay Systems, Part 1
-- [ ] 723 Developing CarPlay Systems, Part 2
-- [ ] 724 What's New in the Apple Push Notification Service
-- [ ] 725 Deploying AirPrint in Enterprise
+- [ ] 701 Your Apps and Evolving Network Security Standards
+- [ ] 702 Privacy and Your Apps
+- [ ] 703 Introducing Core ML
+- [ ] 704 Creating Immersive Apps with Core Motion
+- [ ] 705 What's New in HomeKit
+- [ ] 706 Modernizing Grand Central Dispatch Usage
+- [ ] 707 Advances in Networking, Part 1
+- [ ] 708 Best Practices and What’s New in User Notifications
+- [ ] 709 Advances in Networking, Part 2
+- [ ] 710 Core ML in depth
+- [ ] 711 Accelerate and Sparse Solvers
+- [ ] 712 What's New in Core Bluetooth
+- [ ] 713 What's New in Location Technologies
+- [ ] 714 What's New in Apple Pay & Wallet
+- [ ] 715 What's new in Apple File System
+- [ ] 716 iOS Configuration and APIs for Kiosk and Assessment Apps
+- [ ] 717 Developing Wireless CarPlay Systems
+- [ ] 718 Introducing Core NFC
+- [ ] 719 Enabling Your App for CarPlay
 
 ### Design
-- [ ] 801 Inclusive App Design
-- [ ] 802 Designing for tvOS
-- [ ] 803 Typography and Fonts
-- [ ] 804 Designing Great Apple Watch Experiences
-- [ ] 805 Iterative UI Design
+- [ ] 802 Essential Design Principles
+- [ ] 803 Designing Sound
+- [ ] 804 Designing Across Platforms
+- [ ] 806 Design For Everyone
+- [ ] 808 Planning a Great Apple Watch Experience
+- [ ] 809 Communication Between Designers and Engineers
+- [ ] 810 What’s New in iOS 11
+- [ ] 811 Design Tips for Great Games
+- [ ] 812 Size Classes and Core Components
+- [ ] 813 Writing Great Alerts
+- [ ] 814 Designing for Subscription Success
+- [ ] 815 How to Pick a Custom Font
+- [ ] 816 Love at First Launch
+- [ ] 817 Rich Notifications
+- [ ] 818 60 Second Prototyping
+- [ ] 819 Designing for a Global Audience
+- [ ] 820 Express Yourself!
+- [ ] 821 Get Started with Display P3
+- [ ] 822 App Icon Design
+- [ ] 823 Designing Glyphs
 
 # WWDC 2016
 
@@ -207,7 +223,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 - [ ] 401 What's New in Xcode App Signing
 - [ ] 402 What's New in Swift 
-- [ ] 403 Swift API Design Guidelines 
+- [x] [~403 Swift API Design Guidelines~](WWDC2016/WWDC2016%20Session%20403%20Swift%20API%20Design%20Guidelines/WWDC2016%20Session%20403%20Swift%20API%20Design%20Guidelines.md) 
 - [ ] 404 Getting Started with Swift 
 - [ ] 405 What's New in LLVM 
 - [ ] 406 Optimizing App Startup Time 
