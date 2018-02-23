@@ -304,7 +304,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 802 Designing for tvOS 
 - [ ] 803 Typography and Fonts 
 - [ ] 804 Designing Great Apple Watch Experiences 
-- [ ] 805 Iterative UI Design
+- [x] ~~805 Iterative UI Design~~
 
 # WWDC 2015
 
