@@ -150,7 +150,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 815 How to Pick a Custom Font
 - [ ] 816 Love at First Launch
 - [ ] 817 Rich Notifications
-- [ ] 818 60 Second Prototyping
+- [x] ~~818 60 Second Prototyping~~
 - [ ] 819 Designing for a Global Audience
 - [ ] 820 Express Yourself!
 - [ ] 821 Get Started with Display P3
