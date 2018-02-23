@@ -141,10 +141,10 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 804 Designing Across Platforms
 - [ ] 806 Design For Everyone
 - [ ] 808 Planning a Great Apple Watch Experience
-- [ ] ~~809 Communication Between Designers and Engineers~~
+- [x] ~~809 Communication Between Designers and Engineers~~
 - [ ] 810 What’s New in iOS 11
 - [ ] 811 Design Tips for Great Games
-- [ ] 812 Size Classes and Core Components
+- [x] ~~812 Size Classes and Core Components~~
 - [ ] 813 Writing Great Alerts
 - [ ] 814 Designing for Subscription Success
 - [ ] 815 How to Pick a Custom Font
