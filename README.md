@@ -39,7 +39,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 227 Data Delivery with Drag and Drop
 - [ ] 228 Making Great SiriKit Experiences
 - [ ] 229 Building Great Document-based Apps in iOS 11
-- [ ] 230 Advanced Animations with UIKit
+- [x] ~~230 Advanced Animations with UIKit~~
 - [ ] 231 What's New in Core Spotlight for iOS and macOS
 - [ ] 232 What's New in CareKit and ResearchKit
 - [ ] 234 What's New in iMessage Apps
