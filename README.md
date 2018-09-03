@@ -7,6 +7,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~203 I Have This Idea For An App...~~
 - [x] ~~223 Embracing Algorithms~~
 - [x] ~~225 A Tour of UICollectionView~~
+- [x] ~~235 UIKit: Apps for Every Size and Shape~~
 
 # WWDC 2017
 
