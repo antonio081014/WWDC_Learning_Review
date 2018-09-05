@@ -9,6 +9,9 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~225 A Tour of UICollectionView~~
 - [x] ~~235 UIKit: Apps for Every Size and Shape~~
 
+### Design
+- [x] ~~804 The Life of a Button~~
+
 # WWDC 2017
 
 ### Featured
