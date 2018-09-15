@@ -9,6 +9,8 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~225 A Tour of UICollectionView~~
 - [x] ~~235 UIKit: Apps for Every Size and Shape~~
 
+- [x] ~~418 Source Control Workflows in Xcode~~
+
 - [x] ~~704 Best Practics and What's New with In-App Purchases~~
 
 ### Design
