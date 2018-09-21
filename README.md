@@ -224,7 +224,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 239 Crafting Modern Cocoa Apps 
 - [ ] 240 Increase Usage of Your App With Proactive Suggestions 
 - [ ] 241 Public Transit in Apple Maps 
-- [ ] 242 What's New in Core Data
+- [x] 242 What's New in Core Data
 
 ### Distribution
 
