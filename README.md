@@ -6,6 +6,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~202 What's New in Cocoa Touch~~
 - [x] ~~203 I Have This Idea For An App...~~
 - [x] ~~223 Embracing Algorithms~~
+- [x] ~~224 Core Data Best Practice~~
 - [x] ~~225 A Tour of UICollectionView~~
 - [x] ~~235 UIKit: Apps for Every Size and Shape~~
 
