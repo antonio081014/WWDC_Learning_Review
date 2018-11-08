@@ -2,6 +2,7 @@
 Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 # WWDC 2018
+
 ### App Frameworks
 - [x] ~~202 What's New in Cocoa Touch~~
 - [x] ~~203 I Have This Idea For An App...~~
@@ -10,8 +11,10 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~225 A Tour of UICollectionView~~
 - [x] ~~235 UIKit: Apps for Every Size and Shape~~
 
+### Developer Tools
 - [x] ~~418 Source Control Workflows in Xcode~~
 
+### System Frameworks
 - [x] ~~704 Best Practics and What's New with In-App Purchases~~
 
 ### Design
