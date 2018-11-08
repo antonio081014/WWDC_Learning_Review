@@ -173,7 +173,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 819 Designing for a Global Audience
 - [ ] 820 Express Yourself!
 - [ ] 821 Get Started with Display P3
-- [ ] 822 App Icon Design
+- [x] 822 App Icon Design
 - [ ] 823 Designing Glyphs
 
 # WWDC 2016
