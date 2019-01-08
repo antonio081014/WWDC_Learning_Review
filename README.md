@@ -11,6 +11,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~225 A Tour of UICollectionView~~
 - [x] ~~235 UIKit: Apps for Every Size and Shape~~
 
+- [x] ~~301 What's New in App Store Connect~~
 ### Developer Tools
 - [x] ~~418 Source Control Workflows in Xcode~~
 
@@ -242,7 +243,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 - [ ] 401 What's New in Xcode App Signing
 - [ ] 402 What's New in Swift 
-- [x] [~403 Swift API Design Guidelines~](WWDC2016/WWDC2016%20Session%20403%20Swift%20API%20Design%20Guidelines/WWDC2016%20Session%20403%20Swift%20API%20Design%20Guidelines.md) 
+- [x] [~~403 Swift API Design Guidelines~~](WWDC2016/WWDC2016%20Session%20403%20Swift%20API%20Design%20Guidelines/WWDC2016%20Session%20403%20Swift%20API%20Design%20Guidelines.md) 
 - [ ] 404 Getting Started with Swift 
 - [ ] 405 What's New in LLVM 
 - [ ] 406 Optimizing App Startup Time 
@@ -942,7 +943,14 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 517 Using Local And Push Notifications on iOS and Mac OS X
 - [ ] 518 Testing Your Location-Aware App Without Leaving Your Chair
 - [ ] 519 Combining Web Accessibility and Automation on iOS
- 
+
+
+### App Store Connect
+- [x] ~~101 TestFlight~~
+- [x] ~~102 App Analytics Overview~~
+- [x] ~~103 App Analytics Metrics~~
+- [x] ~~104 App Analytics Retention~~
+- [x] ~~105 App Store Connect Basics~~
 
 # License
 [MIT](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/LICENSE)
