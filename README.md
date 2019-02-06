@@ -167,7 +167,7 @@ niques in Interface Builder
 - [ ] 811 Design Tips for Great Games
 - [x] ~~812 Size Classes and Core Components~~
 - [ ] 813 Writing Great Alerts
-- [ ] 814 Designing for Subscription Success
+- [x] ~~814 Designing for Subscription Success~~
 - [ ] 815 How to Pick a Custom Font
 - [ ] 816 Love at First Launch
 - [ ] 817 Rich Notifications
