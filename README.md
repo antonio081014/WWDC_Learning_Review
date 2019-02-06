@@ -100,7 +100,8 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 409 What's New in Testing
 - [ ] 410 Localizing Content for Swift Playgrounds
 - [ ] 411 What's New in LLVM
-- [ ] 412 Auto Layout Techniques in Interface Builder
+- [ ] 412 Auto Layout 
+niques in Interface Builder
 - [ ] 413 App Startup Time: Past, Present, and Future
 - [ ] 414 Engineering for Testability
 - [ ] 416 Teaching with Swift Playgrounds
@@ -944,8 +945,10 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 518 Testing Your Location-Aware App Without Leaving Your Chair
 - [ ] 519 Combining Web Accessibility and Automation on iOS
 
+# Tech Talks
+- [x] ~~803 Designing for Subscription Success~~
 
-### App Store Connect
+# App Store Connect
 - [x] ~~101 TestFlight~~
 - [x] ~~102 App Analytics Overview~~
 - [x] ~~103 App Analytics Metrics~~
