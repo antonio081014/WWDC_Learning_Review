@@ -225,7 +225,7 @@ niques in Interface Builder
 - [ ] 233 Making Apps Adaptive, Part 2 
 - [ ] 234 What's New in ResearchKit 
 - [ ] 235 Building Great Workout Apps 
-- [ ] 236 What's New in Auto Layout 
+- [x] ~~236 What's New in Auto Layout~~
 - [ ] 237 Getting Started with CareKit 
 - [ ] 238 Measurements and Units 
 - [ ] 239 Crafting Modern Cocoa Apps 
