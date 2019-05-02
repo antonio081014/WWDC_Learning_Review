@@ -194,7 +194,7 @@ niques in Interface Builder
 - [ ] 202 What's New in Accessibility 
 - [ ] 203 What's New in Cocoa 
 - [ ] 204 iMessage Apps and Stickers, Part 1 
-- [ ] ~~205 What's New in Cocoa Touch~~
+- [x] ~~205 What's New in Cocoa Touch~~
 - [ ] 206 What's New in tvOS 
 - [ ] 207 What's New in Foundation for Swift 
 - [ ] 208 What's New in watchOS 3 
