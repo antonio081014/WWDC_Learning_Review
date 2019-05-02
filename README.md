@@ -231,11 +231,11 @@ niques in Interface Builder
 - [ ] 239 Crafting Modern Cocoa Apps 
 - [ ] 240 Increase Usage of Your App With Proactive Suggestions 
 - [ ] 241 Public Transit in Apple Maps 
-- [x] 242 What's New in Core Data
+- [x] ~~242 What's New in Core Data~~
 
 ### Distribution
 
-- [ ] 301 Introducing Expanded Subscriptions in iTunes Connect 
+- [x] ~~301 Introducing Expanded Subscriptions in iTunes Connect ~~
 - [ ] 302 Introducing Search Ads
 - [ ] 303 What's New in Apple Device Management
 - [ ] 304 Best Practices for Building Apps Used in Business and Education
