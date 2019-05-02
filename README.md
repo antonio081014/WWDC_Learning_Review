@@ -235,7 +235,7 @@ niques in Interface Builder
 
 ### Distribution
 
-- [x] ~~301 Introducing Expanded Subscriptions in iTunes Connect ~~
+- [x] ~~301 Introducing Expanded Subscriptions in iTunes Connect~~
 - [ ] 302 Introducing Search Ads
 - [ ] 303 What's New in Apple Device Management
 - [ ] 304 Best Practices for Building Apps Used in Business and Education
