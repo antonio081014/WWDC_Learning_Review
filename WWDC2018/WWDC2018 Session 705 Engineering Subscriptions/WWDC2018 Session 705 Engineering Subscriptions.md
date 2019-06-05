@@ -30,7 +30,8 @@
 	3. Date in the past shows user not active subscribed.
 	4. Date in future shows user active
 
-	Status Polling
+	#### Status Polling
+	
 	Discover new transactions directly from your server.
 		
 		- Save latest version of encoded receipt data on your serer(latestReceiptData, exclude-old-transactions: true)
