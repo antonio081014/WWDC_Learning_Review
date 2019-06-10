@@ -2,12 +2,12 @@
 #### Target / Action
 **What does it do**: Connect controls to custom logic
 **Control** sends messages (**Action**) to the Object(**Target**)
-![Graphic Demo](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2014/WWDC2014%20Session%20224%20Core%20iOS%20Application%20Architectural%20Patterns/Screen%20Shot%202015-08-12%20at%202.03.09%20PM.png)
+![Graphic Demo](p1.png)
 #### Responder Chain
 **What does it do**: Handle events without knowledge of which object will be used
-![Graphic Demo](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2014/WWDC2014%20Session%20224%20Core%20iOS%20Application%20Architectural%20Patterns/Screen%20Shot%202015-08-12%20at%202.09.01%20PM.png)
+![Graphic Demo](p2.png)
 If the 1st Responder doesn't respond, the message will keep passing until either some responder respond it or nothing happens(no responder).
-![Graphic Demo](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2014/WWDC2014%20Session%20224%20Core%20iOS%20Application%20Architectural%20Patterns/Screen%20Shot%202015-08-12%20at%204.08.25%20PM.png)
+![Graphic Demo](p3.png)
 #### Composite
 **What does it do**: Manipulate a group of objects as a single object
 One great example is a parent view could have some subviews. When the parent view is moved or rotated, the subviews follows, be moved or rotated as well.
