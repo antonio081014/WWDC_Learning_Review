@@ -1,8 +1,8 @@
 In this session, Quinn  presents how to use right Data Structures to improve the app performance as much as possible.
 
 ## 1. When to focus on performance
-![Steve Quote 1](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2013/WWDC2013%20Session%20224%20Designing%20Code%20for%20Performance/Screen%20Shot%202015-08-10%20at%2010.18.07%20AM.png)
-![Steve Quote 2](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2013/WWDC2013%20Session%20224%20Designing%20Code%20for%20Performance/Screen%20Shot%202015-08-10%20at%2010.19.19%20AM.png)
+![Steve Quote 1](p1.png)
+![Steve Quote 2](p2.png)
 Trying to improve the parts consume more execution time.
 
 - **Premature optimization** leads to unnecessary complexity
