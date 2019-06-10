@@ -8,6 +8,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 ### Developer Tools
 - [x] ~~401 What's New in Xcode 11~~
+- [x] ~~401 What's New in Swift~~
 
 # WWDC 2018
 
