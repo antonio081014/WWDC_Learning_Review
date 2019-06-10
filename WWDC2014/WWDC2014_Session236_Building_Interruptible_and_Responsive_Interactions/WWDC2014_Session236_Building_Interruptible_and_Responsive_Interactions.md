@@ -22,7 +22,7 @@ We have two options here to implement this:
 
 Absolute Animation | Absolute Animation and Begin from Current State
 ------------------------- | -------------------------------
-![Absolute Animation](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2014/WWDC2014%20Session%20236%20Building%20Interruptible%20and%20Responsive%20Interactions/vlcsnap-2015-08-24-11h53m27s246.png) | ![Absolute Animation and Begin from Current State](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2014/WWDC2014%20Session%20236%20Building%20Interruptible%20and%20Responsive%20Interactions/vlcsnap-2015-08-24-11h55m43s713.png)
+![Absolute Animation](vlcsnap-2015-08-24-11h53m27s246.png) | ![Absolute Animation and Begin from Current State](vlcsnap-2015-08-24-11h55m43s713.png)
 
 **Additive Animation**
 - Smoother transitions on iOS 8 by default 
@@ -31,12 +31,12 @@ Absolute Animation | Absolute Animation and Begin from Current State
 
 |Additive Animation|Completion Handler|
 |------------------|--------------|
-|![Additive Animation](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2014/WWDC2014%20Session%20236%20Building%20Interruptible%20and%20Responsive%20Interactions/vlcsnap-2015-08-24-13h21m46s063.png) | ![](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2014/WWDC2014%20Session%20236%20Building%20Interruptible%20and%20Responsive%20Interactions/vlcsnap-2015-08-24-14h48m04s032.png)|
+|![Additive Animation](vlcsnap-2015-08-24-13h21m46s063.png) | ![](vlcsnap-2015-08-24-14h48m04s032.png)|
 
 
 |Absolute Animation|Additive Animation|
 |------------------|--------------|
-|![](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2014/WWDC2014%20Session%20236%20Building%20Interruptible%20and%20Responsive%20Interactions/vlcsnap-2015-08-24-13h22m22s499.png) | ![](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2014/WWDC2014%20Session%20236%20Building%20Interruptible%20and%20Responsive%20Interactions/vlcsnap-2015-08-24-13h22m28s162.png)|
+|![](vlcsnap-2015-08-24-13h22m22s499.png) | ![](vlcsnap-2015-08-24-13h22m28s162.png)|
 
 ### From Animation to Gesture
 Key part of thie section is converting CGPoint from one coordinate to another. One layer to another layer, or one view to another view.
