@@ -6,7 +6,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 ### Featured
 - [x] ~~101 Keynote~~
 
-- [] ~~239 Great Developer Habits~~
+- [x] ~~239 Great Developer Habits~~
 
 ### Developer Tools
 - [x] ~~401 What's New in Xcode 11~~
