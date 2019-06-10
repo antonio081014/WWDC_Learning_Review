@@ -7,7 +7,7 @@ In this session, Andy presents how to implement the following 3 features to make
 Bonus Part: present how to use Xcode Instrument Profile to identify the Problems.
 
 ### **1. Concurrent Processing of Data intended using UI**
-![Data Flow Overview](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2012/WWDC2012%20Session%20211%20Building%20Concurrent%20User%20Interfaces%20on%20iOS/Screen%20Shot%202015-08-09%20at%2011.46.39%20AM.png)
+![Data Flow Overview](p1.png)
 ```
 //1st, System events on the main queue
 NSOperationQueue *queue = [[NSOperationQueue alloc] init];
@@ -20,8 +20,8 @@ NSOperationQueue *queue = [[NSOperationQueue alloc] init];
         updateUI(someStock);
 }]; }];
 ```
-![Step 1 & 2](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2012/WWDC2012%20Session%20211%20Building%20Concurrent%20User%20Interfaces%20on%20iOS/Screen%20Shot%202015-08-09%20at%2011.51.53%20AM.png)
-![Step 3](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2012/WWDC2012%20Session%20211%20Building%20Concurrent%20User%20Interfaces%20on%20iOS/Screen%20Shot%202015-08-09%20at%2011.53.05%20AM.png)
+![Step 1 & 2](p2.png)
+![Step 3](p3.png)
 ### **2. Concurrent Drawing for UI Graphics**
 - UIKit calls ``-drawRect:`` on the main queue
 - You can draw an image for your view on another queue 
@@ -64,4 +64,4 @@ __weak NSBlockOperation *weakOp = op;
 [queue addOperation:op];
 ```
 It's important to avoid retain strong reference cycle, by using a weak reference to the operation and used in the operation block.
-![Step 3, Weak Reference to the operation](https://raw.githubusercontent.com/antonio081014/WWDC_Learning_Review/master/WWDC2012/WWDC2012%20Session%20211%20Building%20Concurrent%20User%20Interfaces%20on%20iOS/Screen%20Shot%202015-08-09%20at%201.16.21%20PM.png)
+![Step 3, Weak Reference to the operation](p4.png)
