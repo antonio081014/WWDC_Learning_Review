@@ -13,6 +13,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~401 What's New in Xcode 11~~
 - [x] ~~402 What's New in Swift~~
 
+- [X] ~~723 Advances in Foundation~~
 - [x] ~~901 What's new in Core Bluetooth~~
 # WWDC 2018
 
