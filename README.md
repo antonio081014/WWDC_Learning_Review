@@ -516,7 +516,7 @@ niques in Interface Builder
 - [ ] 302 The New iTunes Connect 
 - [ ] 303 Optimizing In-App Purchases 
 - [ ] 304 Creating Great App Previews 
-- [ ] 305 Preventing Unauthorized Purchases with Receipts 
+- [x] ~~305 Preventing Unauthorized Purchases with Receipts~~
 - [ ] 306 JavaScript for Automation
 
 ### Tools
