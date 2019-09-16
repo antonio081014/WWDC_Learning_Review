@@ -98,7 +98,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 251 Now Playing and Remote Commands on tvOS
 
 ### Distribution
-- [ ] 301 Introducing the New App Store
+- [x] ~~301 Introducing the New App Store~~
 - [ ] 302 What's New in iTunes Connect
 - [ ] 303 What's New in StoreKit
 - [ ] 304 What's New in Device Configuration, Deployment, and Management
