@@ -6,6 +6,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 ### Featured
 - [x] ~~101 Keynote~~
 
+- [x] ~~214 Implementing Dark Mode on iOS~~
 - [x] ~~220 Advances in UI Data Sources~~
 - [x] ~~239 Great Developer Habits~~
 
