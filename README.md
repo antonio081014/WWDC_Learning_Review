@@ -3,7 +3,6 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 # WWDC 2019
 
-### Featured
 - [x] ~~101 Keynote~~
 - [x] ~~103 Platforms State of the Union~~
 
@@ -11,7 +10,6 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~220 Advances in UI Data Sources~~
 - [x] ~~239 Great Developer Habits~~
 
-### Developer Tools
 - [x] ~~401 What's New in Xcode 11~~
 - [x] ~~402 What's New in Swift~~
 
