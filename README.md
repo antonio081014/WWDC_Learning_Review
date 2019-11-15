@@ -21,6 +21,8 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~901 What's new in Core Bluetooth~~
 # WWDC 2018
 
+- [x] ~~101 Keynote~~
+
 ### App Frameworks
 - [x] ~~202 What's New in Cocoa Touch~~
 - [x] ~~203 I Have This Idea For An App...~~
