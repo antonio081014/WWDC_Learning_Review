@@ -37,7 +37,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 ### Design
 - [x] ~~804 The Life of a Button~~
-
+- [x] ~~811 Presenting Design Work~~
 # WWDC 2017
 
 ### Featured
