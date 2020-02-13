@@ -27,4 +27,6 @@ The benifit of using ASan to Analyze Memory Corruption
 - Global variable overflow Overflows in C++ containers 
 - Use after return
 
+It's better to use it under none [-O0] optimization configuration.
+
 ## Other Tools
