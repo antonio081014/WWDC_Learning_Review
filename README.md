@@ -419,7 +419,7 @@ niques in Interface Builder
 - [ ] 410 Continuous Integration and Code Coverage in Xcode 
 - [x] [~~411 Swift in Practice~~](./WWDC2015/WWDC2015_Session411_Swift_in_Practice/WWDC2015_Session411_Swift_in_Practice.md)
 - [x] ~~412 Profiling in Depth~~
-- [ ] 413 Advanced Debugging and the Address Sanitizer 
+- [x] [~~413 Advanced Debugging and the Address Sanitizer~~](./WWDC2015/WWDC2015_Session413_Advanced_Debugging_and_the_Address_Sanitizer/WWDC2015_Session413_Advanced_Debugging_and_the_Address_Sanitizer.md)
 - [ ] 414 Building Better Apps with Value Types in Swift
 
 ###Media
