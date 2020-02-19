@@ -17,6 +17,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [X] ~~723 Advances in Foundation~~
 
 - [x] ~~805 Building Great Shortcuts~~
+- [x] ~~808 What's New in iOS Design~~
 
 - [x] ~~901 What's new in Core Bluetooth~~
 # WWDC 2018
