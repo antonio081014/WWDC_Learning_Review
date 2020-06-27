@@ -4,6 +4,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 # WWDC 2020
 - [x] ~~101 Keynote~~
 - [x] ~~102 Platforms State of the Union~~
+- [x] ~~10097 Advances in UICollectionView~~
 # WWDC 2019
 
 - [x] ~~101 Keynote~~
