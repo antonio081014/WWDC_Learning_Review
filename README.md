@@ -12,6 +12,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 - [x] ~~214 Implementing Dark Mode on iOS~~
 - [x] ~~220 Advances in UI Data Sources~~
+- [x] ~~230 Making Apps with Core Data~~
 - [x] ~~239 Great Developer Habits~~
 
 - [x] ~~401 What's New in Xcode 11~~
@@ -25,6 +26,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~808 What's New in iOS Design~~
 
 - [x] ~~901 What's new in Core Bluetooth~~
+
 # WWDC 2018
 
 - [x] ~~101 Keynote~~
