@@ -2,10 +2,14 @@
 Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 # WWDC 2020
+
 - [x] ~~101 Keynote~~
 - [x] ~~102 Platforms State of the Union~~
 - [x] ~~10026 Lists in UICollectionView~~
+- [x] ~~10045 Advances in diffable data sources~~
 - [x] ~~10097 Advances in UICollectionView~~
+- [x] ~~10168 Explore logging in Swift~~
+
 # WWDC 2019
 
 - [x] ~~101 Keynote~~
@@ -43,6 +47,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 - [x] ~~301 What's New in App Store Connect~~
 ### Developer Tools
+- [x] ~~411 Getting to Know  Swift Package Manager~~
 - [x] ~~418 Source Control Workflows in Xcode~~
 
 ### System Frameworks
