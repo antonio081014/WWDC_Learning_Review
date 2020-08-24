@@ -9,6 +9,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~10045 Advances in diffable data sources~~
 - [x] ~~10097 Advances in UICollectionView~~
 - [x] ~~10168 Explore logging in Swift~~
+- [x] ~~10654 Create Swift Playgrounds content for iPad and Mac~~
 
 # WWDC 2019
 
