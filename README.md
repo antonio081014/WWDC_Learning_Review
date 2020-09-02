@@ -20,12 +20,12 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~214 Implementing Dark Mode on iOS~~
 - [x] ~~220 Advances in UI Data Sources~~
 - [x] ~~230 Making Apps with Core Data~~
-- [x] ~~239 Great Developer Habits~~
+- [x] [~~239 Great Developer Habits~~](./WWDC2019/WWDC2019_Session239_Great_Developer_Habits/WWDC2019_Session239_Great_Developer_Habits.md)
 
 - [x] ~~401 What's New in Xcode 11~~
 - [x] ~~402 What's New in Swift~~
 - [x] ~~411 Getting Started with Instruments~~
-- [x] [~~412 Debugging in Xcode 11~~](./WWDC2019/WWDC2019_Session412_Debugging_in_Xcode_11)
+- [x] [~~412 Debugging in Xcode 11~~](./WWDC2019/WWDC2019_Session412_Debugging_in_Xcode_11/WWDC2019_Session412_Debugging_in_Xcode_11.md)
 
 - [x] ~~706 Introducing Sign In with Apple~~
 - [X] ~~723 Advances in Foundation~~
@@ -33,7 +33,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~805 Building Great Shortcuts~~
 - [x] ~~808 What's New in iOS Design~~
 
-- [x] ~~901 What's new in Core Bluetooth~~
+- [x] [~~901 What's new in Core Bluetooth~~](./WWDC2019/WWDC2019_Session901_Whats_New_in_Core_Bluetooth/WWDC2019_Session901_Whats_New_in_Core_Bluetooth.md)
 
 # WWDC 2018
 
