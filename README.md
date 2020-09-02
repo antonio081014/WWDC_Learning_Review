@@ -25,6 +25,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~401 What's New in Xcode 11~~
 - [x] ~~402 What's New in Swift~~
 - [x] ~~411 Getting Started with Instruments~~
+- [x] ~~412 Debugging in Xcode 11~~
 
 - [x] ~~706 Introducing Sign In with Apple~~
 - [X] ~~723 Advances in Foundation~~
