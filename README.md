@@ -14,6 +14,8 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~10168 Explore logging in Swift~~
 - [x] ~~10182 What's new in HealthKit~~
 
+- [x] ~~10200 Design for intelligence: Meet people where they are~~
+
 - [x] [~~10654 Create Swift Playgrounds content for iPad and Mac~~](./WWDC2020/WWDC2020_Session10654_Create_Swift_Playgrounds_content_for_iPad_and_Mac/WWDC2020_Session10654_Create_Swift_Playgrounds_content_for_iPad_and_Mac.md)
 - [x] ~~10658 What's new in education~~
 
