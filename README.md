@@ -6,6 +6,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 102 Platforms State of the Union
 - [x] ~~10059 What's new in UIKit~~
 - [x] ~~10064 Meet the UIKit button system~~
+- [x] ~~10063 Customize and resize sheets in UIKit~~
 
 
 # WWDC 2020
