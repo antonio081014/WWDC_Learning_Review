@@ -3,6 +3,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 # WWDC 2021
 - [x] ~~101 Keynote~~
+- [ ] 102 Platforms State of the Union
 - [x] ~~10059 What's new in UIKit~~
 - [x] ~~10064 Meet the UIKit button system~~
 
