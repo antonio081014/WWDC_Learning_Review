@@ -21,6 +21,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~10088 Design for intelligence: Discover new opportunities~~
 - [x] ~~10097 Advances in UICollectionView~~
 
+- [x] ~~10105 Build for iPad~~
 - [x] ~~10168 Explore logging in Swift~~
 - [x] ~~10182 What's new in HealthKit~~
 
