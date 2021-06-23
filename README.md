@@ -197,7 +197,7 @@ niques in Interface Builder
 ### System Frameworks
 - [ ] 701 Your Apps and Evolving Network Security Standards
 - [ ] 702 Privacy and Your Apps
-- [ ] 703 Introducing Core ML
+- [x] 703 Introducing Core ML
 - [ ] 704 Creating Immersive Apps with Core Motion
 - [ ] 705 What's New in HomeKit
 - [ ] 706 Modernizing Grand Central Dispatch Usage
