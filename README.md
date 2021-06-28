@@ -419,7 +419,7 @@ niques in Interface Builder
 - [ ] 215 What's New in Storyboards 
 - [ ] 216 Layout and Animation Techniques for WatchKit 
 - [ ] 217 Adopting New Trackpad Features 
-- [ ] 218 Mysteries of Auto Layout, Part 1 
+- [x] 218 Mysteries of Auto Layout, Part 1 
 - [ ] 219 Mysteries of Auto Layout, Part 2 
 - [ ] 220 What's New in Core Data 
 - [ ] 221 Improving the Full Screen Window Experience 
