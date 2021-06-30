@@ -420,7 +420,7 @@ niques in Interface Builder
 - [ ] 216 Layout and Animation Techniques for WatchKit 
 - [ ] 217 Adopting New Trackpad Features 
 - [x] 218 Mysteries of Auto Layout, Part 1 
-- [ ] 219 Mysteries of Auto Layout, Part 2 
+- [x] 219 Mysteries of Auto Layout, Part 2 
 - [ ] 220 What's New in Core Data 
 - [ ] 221 Improving the Full Screen Window Experience 
 - [ ] 222 New UIKit Support for International User Interfaces 
