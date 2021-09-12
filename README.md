@@ -7,6 +7,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~10059 What's new in UIKit~~
 - [x] ~~10063 Customize and resize sheets in UIKit~~
 - [x] ~~10064 Meet the UIKit button system~~
+- [x] ~~10097 What’s new in SF Symbols~~
 - [x] ~~10115 What's new in App Analytics~~
 - [x] ~~10171 Meet in-app events on the App Store~~
 - [x] ~~10251 SF Symbols in UIKit and AppKit~~
