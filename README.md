@@ -46,6 +46,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~101 Keynote~~
 - [x] ~~103 Platforms State of the Union~~
 
+- [x] ~~202 Using Core Data with CloudKit~~
 - [x] ~~214 Implementing Dark Mode on iOS~~
 - [x] ~~220 Advances in UI Data Sources~~
 - [x] ~~230 Making Apps with Core Data~~
