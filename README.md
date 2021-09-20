@@ -17,7 +17,6 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 
 # WWDC 2020
-
 - [x] ~~101 Keynote~~
 - [x] ~~102 Platforms State of the Union~~
 - [x] ~~10026 Lists in UICollectionView~~
@@ -27,7 +26,6 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~10086 Design for intelligence: Apps, evolved~~
 - [x] ~~10088 Design for intelligence: Discover new opportunities~~
 - [x] ~~10097 Advances in UICollectionView~~
-
 - [x] ~~10105 Build for iPad~~
 - [x] ~~10168 Explore logging in Swift~~
 - [x] ~~10182 What's new in HealthKit~~
@@ -35,14 +33,13 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~10200 Design for intelligence: Meet people where they are~~
 - [x] ~~10203 Triage TestFlight crashes in Xcode Organizer~~
 - [x] ~~10206 Designed for iPad~~
-
+- [x] ~~10650 Sync a Core Data store with the CloudKit public database~~
 - [x] [~~10654 Create Swift Playgrounds content for iPad and Mac~~](./WWDC2020/WWDC2020_Session10654_Create_Swift_Playgrounds_content_for_iPad_and_Mac/WWDC2020_Session10654_Create_Swift_Playgrounds_content_for_iPad_and_Mac.md)
 - [x] ~~10658 What's new in education~~
 - [x] ~~10666 One-tap account security upgrades~~
 - [x] ~~10681 Swan's Quest, Chapter 1: Voices in the dark~~
 
 # WWDC 2019
-
 - [x] ~~101 Keynote~~
 - [x] ~~103 Platforms State of the Union~~
 
