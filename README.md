@@ -77,6 +77,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~235 UIKit: Apps for Every Size and Shape~~
 
 - [x] ~~301 What's New in App Store Connect~~
+- [x] ~~303 Automating App Store Connect~~
 ### Developer Tools
 - [x] ~~411 Getting to Know  Swift Package Manager~~
 - [x] ~~418 Source Control Workflows in Xcode~~
