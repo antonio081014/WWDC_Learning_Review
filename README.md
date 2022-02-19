@@ -22,7 +22,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~10026 Lists in UICollectionView~~
 - [x] ~~10027 Modern cell configuration~~
 - [x] ~~10028 Meet Widget~~
-- [ ] ~~10034 Widget Code-along, part 1: The adventure begins~~
+- [x] ~~10034 Widget Code-along, part 1: The adventure begins~~
 - [x] ~~10045 Advances in diffable data sources~~
 - [x] ~~10081 What's new in MetricKit~~ 
 - [x] ~~10086 Design for intelligence: Apps, evolved~~
