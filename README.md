@@ -5,6 +5,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~101 Keynote~~
 - [ ] 102 Platforms State of the Union
 - [x] ~~10015 Build apps that share data through CloudKit and Core Data~~
+- [x] ~~10041 Extract document data using Vision~~
 - [x] ~~10059 What's new in UIKit~~
 - [x] ~~10063 Customize and resize sheets in UIKit~~
 - [x] ~~10064 Meet the UIKit button system~~
