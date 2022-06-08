@@ -3,6 +3,8 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 # WWDC 2022
 - [x] ~~101 Keynote~~
+- [x] ~~10068 What's new in UIKit~~
+- [x] ~~110427 What's new in Xcode~~
 
 
 # WWDC 2021
