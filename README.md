@@ -20,6 +20,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] ~~10064 Meet the UIKit button system~~
 - [x] ~~10097 What’s new in SF Symbols~~
 - [x] ~~10115 What's new in App Analytics~~
+- [x] ~~10157 Make blazing fast lists and collection views~~
 - [x] ~~10171 Meet in-app events on the App Store~~
 - [x] ~~10251 SF Symbols in UIKit and AppKit~~
 - [x] ~~10288 Explore the SF Symbols 3 app~~
