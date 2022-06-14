@@ -2,112 +2,112 @@
 Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 # WWDC 2022
-- [x] ~~101 Keynote~~
-- [x] ~~10050 Complications and widgets: Reloaded~~
-- [x] ~~10068 What's new in UIKit~~
-- [x] ~~10136 Hello Swift Charts~~
-- [x] ~~10157 What's new in SF Symbols 4~~
+- [x] 101 Keynote
+- [x] 10050 Complications and widgets: Reloaded
+- [x] 10068 What's new in UIKit
+- [x] 10136 Hello Swift Charts
+- [x] 10157 What's new in SF Symbols 4
 - [x] 110340 Design an effective chart
-- [x] ~~110344 Get to know Developer Mode~~
-- [x] ~~110427 What's new in Xcode~~
+- [x] 110344 Get to know Developer Mode
+- [x] 110427 What's new in Xcode
 
 
 # WWDC 2021
-- [x] ~~101 Keynote~~
+- [x] 101 Keynote
 - [ ] 102 Platforms State of the Union
-- [x] ~~10015 Build apps that share data through CloudKit and Core Data~~
-- [x] ~~10041 Extract document data using Vision~~
-- [x] ~~10059 What's new in UIKit~~
-- [x] ~~10063 Customize and resize sheets in UIKit~~
-- [x] ~~10064 Meet the UIKit button system~~
-- [x] ~~10097 What’s new in SF Symbols~~
-- [x] ~~10115 What's new in App Analytics~~
-- [x] ~~10157 Make blazing fast lists and collection views~~
-- [x] ~~10171 Meet in-app events on the App Store~~
-- [x] ~~10251 SF Symbols in UIKit and AppKit~~
-- [x] ~~10288 Explore the SF Symbols 3 app~~
-- [x] ~~10295 Get ready to optimize your App Store product page~~
+- [x] 10015 Build apps that share data through CloudKit and Core Data
+- [x] 10041 Extract document data using Vision
+- [x] 10059 What's new in UIKit
+- [x] 10063 Customize and resize sheets in UIKit
+- [x] 10064 Meet the UIKit button system
+- [x] 10097 What’s new in SF Symbols
+- [x] 10115 What's new in App Analytics
+- [x] 10157 Make blazing fast lists and collection views
+- [x] 10171 Meet in-app events on the App Store
+- [x] 10251 SF Symbols in UIKit and AppKit
+- [x] 10288 Explore the SF Symbols 3 app
+- [x] 10295 Get ready to optimize your App Store product page
 
 
 # WWDC 2020
-- [x] ~~101 Keynote~~
-- [x] ~~102 Platforms State of the Union~~
-- [x] ~~10026 Lists in UICollectionView~~
-- [x] ~~10027 Modern cell configuration~~
-- [x] ~~10028 Meet Widget~~
-- [x] ~~10034 Widget Code-along, part 1: The adventure begins~~
-- [x] ~~10045 Advances in diffable data sources~~
-- [x] ~~10081 What's new in MetricKit~~ 
-- [x] ~~10086 Design for intelligence: Apps, evolved~~
-- [x] ~~10088 Design for intelligence: Discover new opportunities~~
-- [x] ~~10097 Advances in UICollectionView~~
-- [x] ~~10105 Build for iPad~~
-- [x] ~~10168 Explore logging in Swift~~
-- [x] ~~10182 What's new in HealthKit~~
-- [x] ~~10200 Design for intelligence: Meet people where they are~~
-- [x] ~~10203 Triage TestFlight crashes in Xcode Organizer~~
-- [x] ~~10206 Designed for iPad~~
-- [x] ~~10650 Sync a Core Data store with the CloudKit public database~~
-- [x] [~~10654 Create Swift Playgrounds content for iPad and Mac~~](./WWDC2020/WWDC2020_Session10654_Create_Swift_Playgrounds_content_for_iPad_and_Mac/WWDC2020_Session10654_Create_Swift_Playgrounds_content_for_iPad_and_Mac.md)
-- [x] ~~10658 What's new in education~~
-- [x] ~~10666 One-tap account security upgrades~~
-- [x] ~~10681 Swan's Quest, Chapter 1: Voices in the dark~~
+- [x] 101 Keynote
+- [x] 102 Platforms State of the Union
+- [x] 10026 Lists in UICollectionView
+- [x] 10027 Modern cell configuration
+- [x] 10028 Meet Widget
+- [x] 10034 Widget Code-along, part 1: The adventure begins
+- [x] 10045 Advances in diffable data sources
+- [x] 10081 What's new in MetricKit 
+- [x] 10086 Design for intelligence: Apps, evolved
+- [x] 10088 Design for intelligence: Discover new opportunities
+- [x] 10097 Advances in UICollectionView
+- [x] 10105 Build for iPad
+- [x] 10168 Explore logging in Swift
+- [x] 10182 What's new in HealthKit
+- [x] 10200 Design for intelligence: Meet people where they are
+- [x] 10203 Triage TestFlight crashes in Xcode Organizer
+- [x] 10206 Designed for iPad
+- [x] 10650 Sync a Core Data store with the CloudKit public database
+- [x] [10654 Create Swift Playgrounds content for iPad and Mac](./WWDC2020/WWDC2020_Session10654_Create_Swift_Playgrounds_content_for_iPad_and_Mac/WWDC2020_Session10654_Create_Swift_Playgrounds_content_for_iPad_and_Mac.md)
+- [x] 10658 What's new in education
+- [x] 10666 One-tap account security upgrades
+- [x] 10681 Swan's Quest, Chapter 1: Voices in the dark
 
 # WWDC 2019
-- [x] ~~101 Keynote~~
-- [x] ~~103 Platforms State of the Union~~
+- [x] 101 Keynote
+- [x] 103 Platforms State of the Union
 
-- [x] ~~202 Using Core Data with CloudKit~~
-- [x] ~~214 Implementing Dark Mode on iOS~~
-- [x] ~~220 Advances in UI Data Sources~~
-- [x] ~~230 Making Apps with Core Data~~
-- [x] [~~239 Great Developer Habits~~](./WWDC2019/WWDC2019_Session239_Great_Developer_Habits/WWDC2019_Session239_Great_Developer_Habits.md)
+- [x] 202 Using Core Data with CloudKit
+- [x] 214 Implementing Dark Mode on iOS
+- [x] 220 Advances in UI Data Sources
+- [x] 230 Making Apps with Core Data
+- [x] [239 Great Developer Habits](./WWDC2019/WWDC2019_Session239_Great_Developer_Habits/WWDC2019_Session239_Great_Developer_Habits.md)
 
-- [x] ~~401 What's New in Xcode 11~~
-- [x] ~~402 What's New in Swift~~
-- [x] ~~411 Getting Started with Instruments~~
-- [x] [~~412 Debugging in Xcode 11~~](./WWDC2019/WWDC2019_Session412_Debugging_in_Xcode_11/WWDC2019_Session412_Debugging_in_Xcode_11.md)
+- [x] 401 What's New in Xcode 11
+- [x] 402 What's New in Swift
+- [x] 411 Getting Started with Instruments
+- [x] [412 Debugging in Xcode 11](./WWDC2019/WWDC2019_Session412_Debugging_in_Xcode_11/WWDC2019_Session412_Debugging_in_Xcode_11.md)
 
-- [x] ~~706 Introducing Sign In with Apple~~
-- [X] ~~723 Advances in Foundation~~
+- [x] 706 Introducing Sign In with Apple
+- [X] 723 Advances in Foundation
 
-- [x] ~~805 Building Great Shortcuts~~
-- [x] ~~808 What's New in iOS Design~~
+- [x] 805 Building Great Shortcuts
+- [x] 808 What's New in iOS Design
 
-- [x] [~~901 What's new in Core Bluetooth~~](./WWDC2019/WWDC2019_Session901_Whats_New_in_Core_Bluetooth/WWDC2019_Session901_Whats_New_in_Core_Bluetooth.md)
+- [x] [901 What's new in Core Bluetooth](./WWDC2019/WWDC2019_Session901_Whats_New_in_Core_Bluetooth/WWDC2019_Session901_Whats_New_in_Core_Bluetooth.md)
 
 # WWDC 2018
 
-- [x] ~~101 Keynote~~
+- [x] 101 Keynote
 
 ### App Frameworks
-- [x] ~~202 What's New in Cocoa Touch~~
-- [x] ~~203 I Have This Idea For An App...~~
-- [x] ~~220 High Performance Auto Layout~~
-- [x] ~~223 Embracing Algorithms~~
-- [x] ~~224 Core Data Best Practice~~
-- [x] ~~225 A Tour of UICollectionView~~
-- [x] ~~235 UIKit: Apps for Every Size and Shape~~
+- [x] 202 What's New in Cocoa Touch
+- [x] 203 I Have This Idea For An App...
+- [x] 220 High Performance Auto Layout
+- [x] 223 Embracing Algorithms
+- [x] 224 Core Data Best Practice
+- [x] 225 A Tour of UICollectionView
+- [x] 235 UIKit: Apps for Every Size and Shape
 
-- [x] ~~301 What's New in App Store Connect~~
-- [x] ~~303 Automating App Store Connect~~
+- [x] 301 What's New in App Store Connect
+- [x] 303 Automating App Store Connect
 ### Developer Tools
-- [x] ~~411 Getting to Know  Swift Package Manager~~
-- [x] ~~418 Source Control Workflows in Xcode~~
+- [x] 411 Getting to Know  Swift Package Manager
+- [x] 418 Source Control Workflows in Xcode
 
 ### System Frameworks
-- [x] ~~704 Best Practics and What's New with In-App Purchases~~
+- [x] 704 Best Practics and What's New with In-App Purchases
 
 ### Design
-- [x] ~~804 The Life of a Button~~
-- [x] ~~811 Presenting Design Work~~
+- [x] 804 The Life of a Button
+- [x] 811 Presenting Design Work
 
 
 # WWDC 2017
 
 ### Featured
-- [x] ~~101 Keynote~~
-- [x] ~~102 Platforms State of the Union~~
+- [x] 101 Keynote
+- [x] 102 Platforms State of the Union
 - [ ] 106 From Monroe to NASA
 - [ ] 110 Convenience for You is Independence for Me
 
@@ -141,7 +141,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 227 Data Delivery with Drag and Drop
 - [ ] 228 Making Great SiriKit Experiences
 - [ ] 229 Building Great Document-based Apps in iOS 11
-- [x] ~~230 Advanced Animations with UIKit~~
+- [x] 230 Advanced Animations with UIKit
 - [ ] 231 What's New in Core Spotlight for iOS and macOS
 - [ ] 232 What's New in CareKit and ResearchKit
 - [ ] 234 What's New in iMessage Apps
@@ -164,7 +164,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 251 Now Playing and Remote Commands on tvOS
 
 ### Distribution
-- [x] ~~301 Introducing the New App Store~~
+- [x] 301 Introducing the New App Store
 - [ ] 302 What's New in iTunes Connect
 - [ ] 303 What's New in StoreKit
 - [ ] 304 What's New in Device Configuration, Deployment, and Management
@@ -244,16 +244,16 @@ niques in Interface Builder
 - [ ] 804 Designing Across Platforms
 - [ ] 806 Design For Everyone
 - [ ] 808 Planning a Great Apple Watch Experience
-- [x] ~~809 Communication Between Designers and Engineers~~
+- [x] 809 Communication Between Designers and Engineers
 - [ ] 810 What’s New in iOS 11
 - [ ] 811 Design Tips for Great Games
-- [x] ~~812 Size Classes and Core Components~~
+- [x] 812 Size Classes and Core Components
 - [ ] 813 Writing Great Alerts
-- [x] ~~814 Designing for Subscription Success~~
+- [x] 814 Designing for Subscription Success
 - [ ] 815 How to Pick a Custom Font
 - [ ] 816 Love at First Launch
 - [ ] 817 Rich Notifications
-- [x] ~~818 60 Second Prototyping~~
+- [x] 818 60 Second Prototyping
 - [ ] 819 Designing for a Global Audience
 - [ ] 820 Express Yourself!
 - [ ] 821 Get Started with Display P3
@@ -263,7 +263,7 @@ niques in Interface Builder
 # WWDC 2016
 
 ### Featured
-- [x] ~~101 Keynote~~
+- [x] 101 Keynote
 - [ ] 102 Platforms State of the Union 
 - [ ] 103 Apple Design Awards 
 - [ ] 104 Disability and Innovation: The Universal Benefits of Accessible Design 
@@ -275,7 +275,7 @@ niques in Interface Builder
 - [ ] 202 What's New in Accessibility 
 - [ ] 203 What's New in Cocoa 
 - [ ] 204 iMessage Apps and Stickers, Part 1 
-- [x] ~~205 What's New in Cocoa Touch~~
+- [x] 205 What's New in Cocoa Touch
 - [ ] 206 What's New in tvOS 
 - [ ] 207 What's New in Foundation for Swift 
 - [ ] 208 What's New in watchOS 3 
@@ -306,27 +306,27 @@ niques in Interface Builder
 - [ ] 233 Making Apps Adaptive, Part 2 
 - [ ] 234 What's New in ResearchKit 
 - [ ] 235 Building Great Workout Apps 
-- [x] ~~236 What's New in Auto Layout~~
+- [x] 236 What's New in Auto Layout
 - [ ] 237 Getting Started with CareKit 
 - [ ] 238 Measurements and Units 
 - [ ] 239 Crafting Modern Cocoa Apps 
 - [ ] 240 Increase Usage of Your App With Proactive Suggestions 
 - [ ] 241 Public Transit in Apple Maps 
-- [x] ~~242 What's New in Core Data~~
+- [x] 242 What's New in Core Data
 
 ### Distribution
 
-- [x] ~~301 Introducing Expanded Subscriptions in iTunes Connect~~
+- [x] 301 Introducing Expanded Subscriptions in iTunes Connect
 - [ ] 302 Introducing Search Ads
 - [ ] 303 What's New in Apple Device Management
 - [ ] 304 Best Practices for Building Apps Used in Business and Education
-- [x] ~~305 What's New in iTunes Connect~~
+- [x] 305 What's New in iTunes Connect
 
 ### Developer Tools
 
 - [ ] 401 What's New in Xcode App Signing
 - [ ] 402 What's New in Swift 
-- [x] [~~403 Swift API Design Guidelines~~](WWDC2016/WWDC2016_Session403_Swift_API_Design_Guidelines/WWDC2016_Session403_Swift_API_Design_Guidelines.md) 
+- [x] [403 Swift API Design Guidelines](WWDC2016/WWDC2016_Session403_Swift_API_Design_Guidelines/WWDC2016_Session403_Swift_API_Design_Guidelines.md) 
 - [ ] 404 Getting Started with Swift 
 - [ ] 405 What's New in LLVM 
 - [ ] 406 Optimizing App Startup Time 
@@ -341,7 +341,7 @@ niques in Interface Builder
 - [ ] 415 Going Server-side with Swift Open Source 
 - [ ] 416 Understanding Swift Performance 
 - [ ] 417 Debugging Tips and Tricks 
-- [ ] [~~418 Using Time Profiler in Instruments~~](WWDC2016/WWDC2016_Session418_Using_Time_Profiler_In_Instruments/WWDC2016_Session418_Using_Time_Profiler_In_Instruments.md)
+- [ ] [418 Using Time Profiler in Instruments](WWDC2016/WWDC2016_Session418_Using_Time_Profiler_In_Instruments/WWDC2016_Session418_Using_Time_Profiler_In_Instruments.md)
 - [ ] 419 Protocol and Value Oriented Programming in UIKit Apps 
 - [ ] 420 Optimizing Web Content in Your App
 
@@ -407,7 +407,7 @@ niques in Interface Builder
 - [ ] 802 Designing for tvOS 
 - [ ] 803 Typography and Fonts 
 - [ ] 804 Designing Great Apple Watch Experiences 
-- [x] ~~805 Iterative UI Design~~
+- [x] 805 Iterative UI Design
 
 # WWDC 2015
 
@@ -415,7 +415,7 @@ niques in Interface Builder
 - [ ] 101 Keynote 
 - [ ] 102 Platforms State of the Union 
 - [ ] 103 Apple Design Awards 
-- [x] ~~104 What's New in Xcode~~
+- [x] 104 What's New in Xcode
 - [ ] 105 Introducing WatchKit for watchOS 2 
 - [ ] 106 What's New in Swift 
 - [ ] 107 What's New in Cocoa Touch 
@@ -452,8 +452,8 @@ niques in Interface Builder
 - [ ] 227 What's New in Internationalization 
 - [ ] 228 WatchKit Tips and Tricks 
 - [ ] 229 What's New in UIKit Dynamics and Visual Effects 
-- [x] [~~230 Performance on iOS and watchOS~~](WWDC2015/WWDC2015_Session230_Performance_on_iOS_and_watchOS/WWDC2015_Session230_Performance_on_iOS_and_watchOS.md)
-- [x] [~~231 Cocoa Touch Best Practices~~](WWDC2015/WWDC2015_Session231_Cocoa_Touch_Best_Practices/WWDC2015_Session231_Cocoa_Touch_Best_Practices.md)
+- [x] [230 Performance on iOS and watchOS](WWDC2015/WWDC2015_Session230_Performance_on_iOS_and_watchOS/WWDC2015_Session230_Performance_on_iOS_and_watchOS.md)
+- [x] [231 Cocoa Touch Best Practices](WWDC2015/WWDC2015_Session231_Cocoa_Touch_Best_Practices/WWDC2015_Session231_Cocoa_Touch_Best_Practices.md)
 - [ ] 232 Best Practices for Progress Reporting 
 - [ ] 233 Advanced Touch Input on iOS
 - [ ] 234 Building Document Based Apps 
@@ -464,7 +464,7 @@ niques in Interface Builder
 - [ ] 301 What's New in Managing Apple Devices 
 - [ ] 302 What's New in iTunes Connect 
 - [ ] 303 Getting the Most out of App Analytics 
-- [x] ~~304 iTunes Connect: Development to Distribution~~
+- [x] 304 iTunes Connect: Development to Distribution
 - [ ] 306 Supporting the Enterprise with OS X Automation
 
 ### Developer Tools
@@ -475,12 +475,12 @@ niques in Interface Builder
 - [ ] 405 Authoring Rich Playgrounds 
 - [ ] 406 UI Testing in Xcode 
 - [ ] 407 Implementing UI Designs in Interface Builder 
-- [ ] ~~408 Protocol-Oriented Programming in Swift~~
+- [ ] 408 Protocol-Oriented Programming in Swift
 - [ ] 409 Optimizing Swift Performance 
 - [ ] 410 Continuous Integration and Code Coverage in Xcode 
-- [x] [~~411 Swift in Practice~~](./WWDC2015/WWDC2015_Session411_Swift_in_Practice/WWDC2015_Session411_Swift_in_Practice.md)
-- [x] ~~412 Profiling in Depth~~
-- [x] [~~413 Advanced Debugging and the Address Sanitizer~~](./WWDC2015/WWDC2015_Session413_Advanced_Debugging_and_the_Address_Sanitizer/WWDC2015_Session413_Advanced_Debugging_and_the_Address_Sanitizer.md)
+- [x] [411 Swift in Practice](./WWDC2015/WWDC2015_Session411_Swift_in_Practice/WWDC2015_Session411_Swift_in_Practice.md)
+- [x] 412 Profiling in Depth
+- [x] [413 Advanced Debugging and the Address Sanitizer](./WWDC2015/WWDC2015_Session413_Advanced_Debugging_and_the_Address_Sanitizer/WWDC2015_Session413_Advanced_Debugging_and_the_Address_Sanitizer.md)
 - [ ] 414 Building Better Apps with Value Types in Swift
 
 ###Media
@@ -522,7 +522,7 @@ niques in Interface Builder
 - [ ] 714 What's New in Core Location 
 - [ ] 715 CloudKit Tips and Tricks 
 - [ ] 717 What's New in Network Extension and VPN 
-- [ ] ~~718 Building Responsive and Efficient Apps with GCD~~
+- [ ] 718 Building Responsive and Efficient Apps with GCD
 - [ ] 719 Your App and Next Generation Networks 
 - [ ] 720 What's New in Notifications
 
@@ -559,12 +559,12 @@ niques in Interface Builder
 - [ ] 218 Designing a Great In-App Purchase Experience 
 - [ ] 219 Adopting Handoff on iOS and OS X 
 - [ ] 220 Adopting Advanced Features of the New UI of OS X Yosemite 
-- [x] [~~221 Creating Custom iOS User Interfaces~~](WWDC2014/WWDC2014_Session221_Creating_Custom_iOS_User_Interface/WWDC2014_Session221_Creating_Custom_iOS_User_Interface.md)
+- [x] [221 Creating Custom iOS User Interfaces](WWDC2014/WWDC2014_Session221_Creating_Custom_iOS_User_Interface/WWDC2014_Session221_Creating_Custom_iOS_User_Interface.md)
 - [ ] 222 Optimize Your Earning Power With iAd 
-- [x] ~~223 Prototyping: Fake It Till You Make It~~
-- [x] [~~224 Core iOS Application Architectural Patterns~~](WWDC2014/WWDC2014_Session224_Core_iOS_Application_Architectural_Patterns/WWDC2014_Session224_Core_iOS_Application_Architectural_Patterns.md)
+- [x] 223 Prototyping: Fake It Till You Make It
+- [x] [224 Core iOS Application Architectural Patterns](WWDC2014/WWDC2014_Session224_Core_iOS_Application_Architectural_Patterns/WWDC2014_Session224_Core_iOS_Application_Architectural_Patterns.md)
 - [ ] 225 What's New in Core Data 
-- [x] ~~226 What's New in Table and Collection Views~~
+- [x] 226 What's New in Table and Collection Views
 - [ ] 227 Creating Modern Cocoa Apps 
 - [ ] 228 A Look Inside Presentation Controllers 
 - [ ] 229 Advanced iOS Application Architecture and Patterns 
@@ -573,16 +573,16 @@ niques in Interface Builder
 - [ ] 232 Advanced User Interfaces with Collection Views 
 - [ ] 233 Sharing code between iOS and OS X 
 - [ ] 234 Building a Document-based App 
-- [x] [~~235 Advanced Scrollviews and Touch Handling Techniques~~](WWDC2014/WWDC2014_Session235_Advanced_Scrollviews_and_Touch_Handling_Techniques/WWDC2014_Session235_Advanced_Scrollviews_and_Touch_Handling_Techniques.md)
-- [x] [~~236 Building Interruptible and Responsive Interactions~~](WWDC2014/WWDC2014_Session236_Building_Interruptible_and_Responsive_Interactions/WWDC2014_Session236_Building_Interruptible_and_Responsive_Interactions.md)
-- [x] [~~237 A Strategy for Great Work~~](WWDC2014/WWDC2014_Session237_A_Strategy_for_Great_Work/WWDC2014_Session237_A_Strategy_for_Great_Work.md)
+- [x] [235 Advanced Scrollviews and Touch Handling Techniques](WWDC2014/WWDC2014_Session235_Advanced_Scrollviews_and_Touch_Handling_Techniques/WWDC2014_Session235_Advanced_Scrollviews_and_Touch_Handling_Techniques.md)
+- [x] [236 Building Interruptible and Responsive Interactions](WWDC2014/WWDC2014_Session236_Building_Interruptible_and_Responsive_Interactions/WWDC2014_Session236_Building_Interruptible_and_Responsive_Interactions.md)
+- [x] [237 A Strategy for Great Work](WWDC2014/WWDC2014_Session237_A_Strategy_for_Great_Work/WWDC2014_Session237_A_Strategy_for_Great_Work.md)
 
 ### Services
 - [ ] 301 Affiliate Tools for App Developers 
 - [ ] 302 The New iTunes Connect 
 - [ ] 303 Optimizing In-App Purchases 
 - [ ] 304 Creating Great App Previews 
-- [x] ~~305 Preventing Unauthorized Purchases with Receipts~~
+- [x] 305 Preventing Unauthorized Purchases with Receipts
 - [ ] 306 JavaScript for Automation
 
 ### Tools
@@ -600,9 +600,9 @@ niques in Interface Builder
 - [ ] 413 Debugging in Xcode 6 
 - [ ] 414 Testing in Xcode 6 
 - [ ] 415 Continuous Integration with Xcode 6 
-- [x] ~~416 Building Modern Frameworks~~
+- [x] 416 Building Modern Frameworks
 - [ ] 417 What's New in LLVM 
-- [x] [~~418 Improving Your App with Instruments~~](WWDC2014/WWDC2014_Session418_Improving_Your_App_with_Instruments/WWDC2014_Session418_Improving_Your_App_with_Instruments.md)
+- [x] [418 Improving Your App with Instruments](WWDC2014/WWDC2014_Session418_Improving_Your_App_with_Instruments/WWDC2014_Session418_Improving_Your_App_with_Instruments.md)
 - [ ] 419 Advanced Graphics and Animations for iOS Apps
 
 ### Graphics and Games
@@ -679,16 +679,16 @@ niques in Interface Builder
 - [ ] 214 Customizing Your App’s Appearance for iOS 7 
 - [ ] 215 Optimizing Drawing and Scrolling on OS X 
 - [ ] 216 Bringing Your iOS Apps to OS X 
-- [x] [~~217 Exploring Scroll Views on iOS 7~~](WWDC2013/WWDC2013_Session217_Exploring_Scroll_Views_in_iOS_7/WWDC2013_Session217_Exploring_Scroll_Views_in_iOS_7.md)
+- [x] [217 Exploring Scroll Views on iOS 7](WWDC2013/WWDC2013_Session217_Exploring_Scroll_Views_in_iOS_7/WWDC2013_Session217_Exploring_Scroll_Views_in_iOS_7.md)
 - [ ] 218 Custom Transitions Using View Controllers 
 - [ ] 219 Making Your App World-Ready 
 - [ ] 220 Advanced Text Layouts and Effects with Text Kit 
 - [ ] 221 Advanced Techniques with UIKit Dynamics 
 - [ ] 222 What’s New in State Restoration 
 - [ ] 223 Using Fonts with Text Kit 
-- [x] [~~224 Designing Code for Performance~~](WWDC2013/WWDC2013_Session224_Designing_Code_for_Performance/WWDC2013_Session224_Designing_Code_for_Performance.md)
+- [x] [224 Designing Code for Performance](WWDC2013/WWDC2013_Session224_Designing_Code_for_Performance/WWDC2013_Session224_Designing_Code_for_Performance.md)
 - [ ] 225 Best Practices for Great iOS UI Design 
-- [x] [~~226 Implementing Engaging UI on iOS~~](WWDC2013/WWDC2013_Session226_Implementing_Engaging_UI_on_iOS/WWDC2013_Session226_Implementing_Engaging_UI_on_iOS.md)
+- [x] [226 Implementing Engaging UI on iOS](WWDC2013/WWDC2013_Session226_Implementing_Engaging_UI_on_iOS/WWDC2013_Session226_Implementing_Engaging_UI_on_iOS.md)
 - [ ] 227 Solutions to Common Date and Time Challenges 
 - [ ] 228 Hidden Gems in Cocoa and Cocoa Touch
 
@@ -709,7 +709,7 @@ niques in Interface Builder
 - [ ] 400 What’s New in Xcode 5 
 - [ ] 401 Xcode Core Concepts 
 - [ ] 402 What’s New in the LLVM Compiler 
-- [x] ~~403 From Zero to App Store in Xcode 5~~
+- [x] 403 From Zero to App Store in Xcode 5
 - [ ] 404 Advances in Objective-C 
 - [ ] 405 Interface Builder Core Concepts 
 - [ ] 406 Taking Control of Auto Layout in Xcode 5 
@@ -786,7 +786,7 @@ niques in Interface Builder
 - [ ] 208 Saving and Restoring Application State on iOS  
 - [ ] 209 iCloud Storage Overview  
 - [ ] 210 Accessibility for iOS 
-- [x] [~~211 Building Concurrent User Interfaces on iOS~~](WWDC2012/WWDC2012_Session211_Building_Concurrent_User_Interfaces_on_iOS/WWDC2012_Session211_Building_Concurrent_User_Interfaces_on_iOS.md)
+- [x] [211 Building Concurrent User Interfaces on iOS](WWDC2012/WWDC2012_Session211_Building_Concurrent_User_Interfaces_on_iOS/WWDC2012_Session211_Building_Concurrent_User_Interfaces_on_iOS.md)
 - [ ] 212 Basics+Habits: Building Your Software Projects To Last 
 - [ ] 213 Introduction to High Resolution on OS X 
 - [ ] 214 Core Data Best Practices 
@@ -932,7 +932,7 @@ niques in Interface Builder
 - [ ] 122 iOS Accessibility
 - [ ] 123 Improving the Stability of Your Apps
 - [ ] 124 Twitter Integration
-- [x] ~~125 UITableView Changes, Tips & Tricks~~
+- [x] 125 UITableView Changes, Tips & Tricks
 - [ ] 127 Design Patterns to Simplify Mac Accessibility
 - [ ] 128 Advanced Text Processing
 - [ ] 129 Practical Drawing for iOS Developers
@@ -1028,15 +1028,15 @@ niques in Interface Builder
 - [ ] 519 Combining Web Accessibility and Automation on iOS
 
 # Tech Talks
-- [x] ~~803 Designing for Subscription Success~~
+- [x] 803 Designing for Subscription Success
 
 # App Store Connect
-- [x] ~~101 TestFlight~~
-- [x] ~~102 App Analytics Overview~~
-- [x] ~~103 App Analytics Metrics~~
-- [x] ~~104 App Analytics Retention~~
-- [x] ~~105 App Store Connect Basics~~
+- [x] 101 TestFlight
+- [x] 102 App Analytics Overview
+- [x] 103 App Analytics Metrics
+- [x] 104 App Analytics Retention
+- [x] 105 App Store Connect Basics
 
-- [x] ~~10869 Family Sharing for in-app purchases~~
+- [x] 10869 Family Sharing for in-app purchases
 # License
 [MIT](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/LICENSE)
