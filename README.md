@@ -11,6 +11,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 110340 Design an effective chart
 - [x] 110342 Design app experiences with charts
 - [x] 110344 Get to know Developer Mode
+- [x] 110371 Use Xcode to develop a multiplatform app
 - [x] 110427 What's new in Xcode
 
 
