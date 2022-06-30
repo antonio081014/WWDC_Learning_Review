@@ -3,6 +3,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 # WWDC 2022
 - [x] 101 Keynote
+- [x] 102 Platforms State of Union
 - [x] 10050 Complications and widgets: Reloaded
 - [x] 10068 What's new in UIKit
 - [x] 10136 Hello Swift Charts
