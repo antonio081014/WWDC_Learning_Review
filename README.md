@@ -8,6 +8,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10052 What's new in SwiftUI
 - [x] 10054 The SwiftUI cookbook for navigation
 - [x] 10056 Compose custom layouts with SwiftUI
+- [x] 10058 SwiftUI on iPad: Organize your interface
 - [x] 10068 What's new in UIKit
 - [x] 10136 Hello Swift Charts
 - [x] 10137 Swift Charts: Raise the bar
