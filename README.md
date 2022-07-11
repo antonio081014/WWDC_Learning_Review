@@ -5,6 +5,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 101 Keynote
 - [x] 102 Platforms State of Union
 - [x] 10050 Complications and widgets: Reloaded
+- [x] 10052 What's new in SwiftUI
 - [x] 10054 The SwiftUI cookbook for navigation
 - [x] 10056 Compose custom layouts with SwiftUI
 - [x] 10068 What's new in UIKit
