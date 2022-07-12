@@ -15,6 +15,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10157 What's new in SF Symbols 4
 - [x] 110340 Design an effective chart
 - [x] 110342 Design app experiences with charts
+- [x] 110343 SwiftUI on iPad: Add toolbars, titles, and more
 - [x] 110344 Get to know Developer Mode
 - [x] 110371 Use Xcode to develop a multiplatform app
 - [x] 110427 What's new in Xcode
