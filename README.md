@@ -60,6 +60,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10097 Advances in UICollectionView
 - [x] 10105 Build for iPad
 - [x] 10168 Explore logging in Swift
+- [x] 10176 Master Picture in Picture on tvOS
 - [x] 10182 What's new in HealthKit
 - [x] 10200 Design for intelligence: Meet people where they are
 - [x] 10203 Triage TestFlight crashes in Xcode Organizer
