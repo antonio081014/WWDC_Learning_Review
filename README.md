@@ -178,7 +178,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [ ] 243 File Provider Enhancements
 - [ ] 244 Efficient Interactions with Frameworks
 - [ ] 245 Building Apps with Dynamic Type
-- [ ] 246 Deep Linking on tvOS
+- [x] 246 Deep Linking on tvOS
 - [ ] 247 Extend Your App's Presence With Sharing
 - [ ] 248 Localization Best Practices on tvOS
 - [ ] 249 Filtering Unwanted Messages with Identity Lookup
