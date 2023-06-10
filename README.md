@@ -3,6 +3,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 # WWDC 2023
 - [x] 101 Keynote
+- [x] 111488 What Apple developers need to know at WWDC23
 
 # WWDC 2022
 - [x] 101 Keynote
