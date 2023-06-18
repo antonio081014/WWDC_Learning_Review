@@ -1059,6 +1059,7 @@ niques in Interface Builder
 
 # Tech Talks
 - [x] 803 Designing for Subscription Success
+- [x] [Tips for preveneting common review issues](https://developer.apple.com/videos/play/tech-talks/10885)
 
 # App Store Connect
 - [x] 101 TestFlight
