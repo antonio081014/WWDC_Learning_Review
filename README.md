@@ -4,6 +4,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 # WWDC 2023
 - [x] 101 Keynote
 - [x] 102 Platforms State of the Union
+- [x] 10154 Build an app with SwiftData
 - [x] 10159 Beyond scroll views
 - [x] 10162 The SwiftUI cookbook for focus
 - [x] 10187 Meet SwiftData
