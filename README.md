@@ -9,6 +9,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10162 The SwiftUI cookbook for focus
 - [x] 10187 Meet SwiftData
 - [x] 10165 What's new in Xcode 15
+- [x] 10195 Model your schema with SwiftData
 - [x] 111486 17 big & little things at WWDC23
 - [x] 111488 What Apple developers need to know at WWDC23
 
