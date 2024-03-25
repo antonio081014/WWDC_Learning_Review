@@ -7,6 +7,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10154 Build an app with SwiftData
 - [x] 10159 Beyond scroll views
 - [x] 10162 The SwiftUI cookbook for focus
+- [x] 10161 Inspectors in SwiftUI: Discover the details
 - [x] 10187 Meet SwiftData
 - [x] 10165 What's new in Xcode 15
 - [x] 10195 Model your schema with SwiftData
