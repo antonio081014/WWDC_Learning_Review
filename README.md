@@ -103,6 +103,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 411 Getting Started with Instruments
 - [x] [412 Debugging in Xcode 11](./WWDC2019/WWDC2019_Session412_Debugging_in_Xcode_11/WWDC2019_Session412_Debugging_in_Xcode_11.md)
 
+- [x] 506 HEVC Video with Alpha
 - [x] 706 Introducing Sign In with Apple
 - [X] 723 Advances in Foundation
 
