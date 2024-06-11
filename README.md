@@ -1,11 +1,19 @@
 # WWDC_Learning_Notes
 Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
+# WWDC 2024
+- [x] 101 Keynote
+
 # WWDC 2023
 - [x] 101 Keynote
 - [x] 102 Platforms State of the Union
+- [x] 10154 Build an app with SwiftData
+- [x] 10159 Beyond scroll views
+- [x] 10161 Inspectors in SwiftUI: Discover the details
 - [x] 10162 The SwiftUI cookbook for focus
+- [x] 10187 Meet SwiftData
 - [x] 10165 What's new in Xcode 15
+- [x] 10195 Model your schema with SwiftData
 - [x] 111486 17 big & little things at WWDC23
 - [x] 111488 What Apple developers need to know at WWDC23
 
@@ -99,6 +107,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 411 Getting Started with Instruments
 - [x] [412 Debugging in Xcode 11](https://github.com/antonio081014/WWDC_Learning_Review/WWDC2019/WWDC2019_Session412_Debugging_in_Xcode_11/WWDC2019_Session412_Debugging_in_Xcode_11.md)
 
+- [x] 506 HEVC Video with Alpha
 - [x] 706 Introducing Sign In with Apple
 - [X] 723 Advances in Foundation
 
