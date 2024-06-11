@@ -1,5 +1,20 @@
 #!/bin/bash
 
+touch tmp.txt
+
+echo "---" >> tmp.txt
+echo "" >> tmp.txt
+echo "date: $(date '+%Y-%m-%d %H:%M')" >> tmp.txt
+echo "description: WWDC Watch Log" >> tmp.txt
+echo "tags: tech" >> tmp.txt
+echo "title: WWDC Learning Notes" >> tmp.txt
+echo "" >> tmp.txt
+echo "---" >> tmp.txt
+echo README.md >> tmp.txt
+echo tmp.txt > ~/Tech/Resolution/Content/tech/wwdc_learning_note.md
+
+rm tmp.txt
+
 COMMIT_MSG='Watch ...'
 
 if [ $# -gt 0 ]; then
