@@ -11,7 +11,7 @@ echo "title: WWDC Learning Notes" >> tmp.txt
 echo "" >> tmp.txt
 echo "---" >> tmp.txt
 echo README.md >> tmp.txt
-echo tmp.txt > ~/Tech/Resolution/Content/tech/wwdc_learning_note.md
+cat tmp.txt > ~/Tech/Resolution/Content/tech/wwdc_learning_note.md
 
 rm tmp.txt
 
