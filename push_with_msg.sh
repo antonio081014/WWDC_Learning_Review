@@ -10,7 +10,7 @@ echo "tags: tech" >> tmp.txt
 echo "title: WWDC Learning Notes" >> tmp.txt
 echo "" >> tmp.txt
 echo "---" >> tmp.txt
-echo README.md >> tmp.txt
+cat README.md >> tmp.txt
 cat tmp.txt > ~/Tech/Resolution/Content/tech/wwdc_learning_note.md
 
 rm tmp.txt
