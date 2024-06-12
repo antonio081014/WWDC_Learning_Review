@@ -1,3 +1,13 @@
+---
+
+date: 2024-06-10 12:45
+description: WWDC Watch Log
+tags: tech
+title: WWDC Learning Notes
+
+---
+
+
 # WWDC Learning Notes
 Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
@@ -25,6 +35,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10054 The SwiftUI cookbook for navigation
 - [x] 10056 Compose custom layouts with SwiftUI
 - [x] 10058 SwiftUI on iPad: Organize your interface
+- [x] 10059 The craft of SwiftUI API design: Progressive disclosure
 - [x] 10061 Bring multiple windows to your SwiftUI app
 - [x] 10068 What's new in UIKit
 - [x] 10136 Hello Swift Charts
@@ -55,6 +66,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10095 Use async/await with URLSession
 - [x] 10097 What’s new in SF Symbols
 - [x] 10115 What's new in App Analytics
+- [x] 10119 SwiftUI Accessibility: Beyond the basics
 - [x] 10132 Meet async/await in Swift
 - [x] 10134 Explore structured concurrency in Swift
 - [x] 10157 Make blazing fast lists and collection views
@@ -73,6 +85,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10028 Meet Widget
 - [x] 10031 Stacks, Grids, and Outlines in SwiftUI
 - [x] 10034 Widget Code-along, part 1: The adventure begins
+- [x] 10040 Data Essentials in SwiftUI
 - [x] 10045 Advances in diffable data sources
 - [x] 10081 What's new in MetricKit 
 - [x] 10086 Design for intelligence: Apps, evolved
@@ -106,7 +119,6 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 402 What's New in Swift
 - [x] 411 Getting Started with Instruments
 - [x] [412 Debugging in Xcode 11](https://github.com/antonio081014/WWDC_Learning_Review/WWDC2019/WWDC2019_Session412_Debugging_in_Xcode_11/WWDC2019_Session412_Debugging_in_Xcode_11.md)
-
 - [x] 506 HEVC Video with Alpha
 - [x] 706 Introducing Sign In with Apple
 - [X] 723 Advances in Foundation
