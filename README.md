@@ -1,11 +1,3 @@
----
-
-date: 2024-06-10 12:45
-description: WWDC Watch Log
-tags: tech
-title: WWDC Learning Notes
-
----
 
 
 # WWDC Learning Notes
