@@ -5,6 +5,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 # WWDC 2024
 - [x] 101 Keynote
+- [x] 2023 Meet FinanceKit
 
 # WWDC 2023
 - [x] 101 Keynote
