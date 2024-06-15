@@ -6,6 +6,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 # WWDC 2024
 - [x] 101 Keynote
 - [x] 2023 Meet FinanceKit
+- [x] 10136 What's new in Swift
 - [x] 10144 What's new in SwiftUI
 
 # WWDC 2023
