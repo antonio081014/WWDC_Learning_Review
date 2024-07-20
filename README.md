@@ -9,6 +9,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10136 What's new in Swift
 - [x] 10144 What's new in SwiftUI
 - [x] 10146 Demystify SwiftUI containers
+- [x] 10150 SwiftUI essentials
 - [x] 10188 What's new in SF Symbols 6
 
 # WWDC 2023
