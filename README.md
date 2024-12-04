@@ -23,6 +23,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10165 What's new in Xcode 15
 - [x] 10187 Meet SwiftData
 - [x] 10195 Model your schema with SwiftData
+- [x] 10248 Analyze Hangs with Instruments
 - [x] 10257 Create animated symbols
 - [x] 111486 17 big & little things at WWDC23
 - [x] 111488 What Apple developers need to know at WWDC23
