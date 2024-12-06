@@ -1,5 +1,3 @@
-
-
 # WWDC Learning Notes
 Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
@@ -48,6 +46,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 110343 SwiftUI on iPad: Add toolbars, titles, and more
 - [x] 110344 Get to know Developer Mode
 - [x] 110350 Visualize and optimize Swift concurrency
+- [x] 110351 Eliminate data races using Swift Concurrency
 - [x] 110355 Meet Swift Async Algorithms 
 - [x] 110371 Use Xcode to develop a multiplatform app
 - [x] 110427 What's new in Xcode
