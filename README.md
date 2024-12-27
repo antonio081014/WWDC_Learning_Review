@@ -1093,6 +1093,7 @@ niques in Interface Builder
 
 # Tech Talks
 - [x] [Tips for preveneting common review issues](https://developer.apple.com/videos/play/tech-talks/10885)
+- [x] [Explore UI animation hitches and the render loop](https://developer.apple.com/videos/play/tech-talks/10855)
 
 # License
 [MIT](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/LICENSE)
