@@ -1,5 +1,3 @@
-
-
 # WWDC Learning Notes
 Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
