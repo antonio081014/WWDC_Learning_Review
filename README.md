@@ -23,6 +23,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10165 What's new in Xcode 15
 - [x] 10187 Meet SwiftData
 - [x] 10195 Model your schema with SwiftData
+- [x] 10248 Analyze Hangs with Instruments
 - [x] 10257 Create animated symbols
 - [x] 111486 17 big & little things at WWDC23
 - [x] 111488 What Apple developers need to know at WWDC23
@@ -47,6 +48,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 110343 SwiftUI on iPad: Add toolbars, titles, and more
 - [x] 110344 Get to know Developer Mode
 - [x] 110350 Visualize and optimize Swift concurrency
+- [x] 110351 Eliminate data races using Swift Concurrency
 - [x] 110355 Meet Swift Async Algorithms 
 - [x] 110371 Use Xcode to develop a multiplatform app
 - [x] 110427 What's new in Xcode
@@ -1093,6 +1095,7 @@ niques in Interface Builder
 
 # Tech Talks
 - [x] [Tips for preveneting common review issues](https://developer.apple.com/videos/play/tech-talks/10885)
+- [x] [Explore UI animation hitches and the render loop](https://developer.apple.com/videos/play/tech-talks/10855)
 
 # License
 [MIT](https://github.com/antonio081014/WWDC_Learning_Review/blob/master/LICENSE)
