@@ -1,9 +1,11 @@
 
+---
+
 
 # WWDC Learning Notes
 Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
-# WWDC 2024
+## WWDC 2024
 - [x] 101 Keynote
 - [x] 2023 Meet FinanceKit
 - [x] 10136 What's new in Swift
@@ -13,9 +15,10 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10188 What's new in SF Symbols 6
 - [x] 10198 Run, Break, Inspect: Explore effective debugging in LLDB
 
-# WWDC 2023
+## WWDC 2023
 - [x] 101 Keynote
 - [x] 102 Platforms State of the Union
+- [x] 10149 Discover Observation in SwiftUI
 - [x] 10154 Build an app with SwiftData
 - [x] 10159 Beyond scroll views
 - [x] 10161 Inspectors in SwiftUI: Discover the details
@@ -28,7 +31,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 111486 17 big & little things at WWDC23
 - [x] 111488 What Apple developers need to know at WWDC23
 
-# WWDC 2022
+## WWDC 2022
 - [x] 101 Keynote
 - [x] 102 Platforms State of Union
 - [x] 10050 Complications and widgets: Reloaded
@@ -54,7 +57,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 110427 What's new in Xcode
 
 
-# WWDC 2021
+## WWDC 2021
 - [x] 101 Keynote
 - [ ] 102 Platforms State of the Union
 - [x] 10015 Build apps that share data through CloudKit and Core Data
@@ -79,7 +82,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10295 Get ready to optimize your App Store product page
 - [x] 10349 SF Symbols in SwiftUI
 
-# WWDC 2020
+## WWDC 2020
 - [x] 101 Keynote
 - [x] 102 Platforms State of the Union
 - [x] 10026 Lists in UICollectionView
@@ -108,7 +111,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10666 One-tap account security upgrades
 - [x] 10681 Swan's Quest, Chapter 1: Voices in the dark
 
-# WWDC 2019
+## WWDC 2019
 - [x] 101 Keynote
 - [x] 103 Platforms State of the Union
 
@@ -131,7 +134,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 - [x] [901 What's new in Core Bluetooth](https://github.com/antonio081014/WWDC_Learning_Review/WWDC2019/WWDC2019_Session901_Whats_New_in_Core_Bluetooth/WWDC2019_Session901_Whats_New_in_Core_Bluetooth.md)
 
-# WWDC 2018
+## WWDC 2018
 
 - [x] 101 Keynote
 
@@ -158,7 +161,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 811 Presenting Design Work
 
 
-# WWDC 2017
+## WWDC 2017
 
 ### Featured
 - [x] 101 Keynote
@@ -315,7 +318,7 @@ niques in Interface Builder
 - [x] 822 App Icon Design
 - [ ] 823 Designing Glyphs
 
-# WWDC 2016
+## WWDC 2016
 
 ### Featured
 - [x] 101 Keynote
@@ -464,7 +467,7 @@ niques in Interface Builder
 - [ ] 804 Designing Great Apple Watch Experiences 
 - [x] 805 Iterative UI Design
 
-# WWDC 2015
+## WWDC 2015
 
 ### Featured
 - [ ] 101 Keynote 
@@ -588,7 +591,7 @@ niques in Interface Builder
 - [ ] 804 Introducing the New System Fonts 
 - [ ] 805 Apple Watch Design Tips and Tricks
 
-# WWDC 2014
+## WWDC 2014
 ### Special Events
 - [ ] 101 Keynote 
 - [ ] 102 Platforms State of the Union 
@@ -710,7 +713,7 @@ niques in Interface Builder
 - [ ] 717 Kids and Apps 
 - [ ] 718 Adopting AirPrint
 
-# WWDC 2013
+## WWDC 2013
 
 ### Special Events
 - [ ] 100 Keynote 
@@ -825,7 +828,7 @@ niques in Interface Builder
 - [ ] 713 The Accelerate Framework 
 - [ ] 714 Protecting your Users’ Privacy
 
-# WWDC 2012
+## WWDC 2012
 
 ### General
 - [ ] 100 Keynote 
@@ -954,7 +957,7 @@ niques in Interface Builder
 - [ ] 712 Asynchronous Design Patterns with Blocks, GCD, and XPC 
 - [ ] 714 Protecting the User's Data
 
-# WWDC 2011
+## WWDC 2011
 
 ### General
 
