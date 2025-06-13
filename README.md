@@ -82,6 +82,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 10157 Make blazing fast lists and collection views
 - [x] 10171 Meet in-app events on the App Store
 - [x] 10191 Deliver a great playback experience
+- [x] 10194 Swift concurrency: Update a sample app
 - [x] 10251 SF Symbols in UIKit and AppKit
 - [x] 10288 Explore the SF Symbols 3 app
 - [x] 10295 Get ready to optimize your App Store product page
