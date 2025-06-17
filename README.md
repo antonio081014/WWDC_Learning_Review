@@ -120,11 +120,11 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 ## WWDC 2019
 - [x] 101 Keynote
 - [x] 103 Platforms State of the Union
-
 - [x] 202 Using Core Data with CloudKit
 - [x] 214 Implementing Dark Mode on iOS
 - [x] 220 Advances in UI Data Sources
 - [x] 230 Making Apps with Core Data
+- [x] 237 Building Custom Views with SwiftUI
 - [x] [239 Great Developer Habits](https://github.com/antonio081014/WWDC_Learning_Review/WWDC2019/WWDC2019_Session239_Great_Developer_Habits/WWDC2019_Session239_Great_Developer_Habits.md)
 
 - [x] 401 What's New in Xcode 11
