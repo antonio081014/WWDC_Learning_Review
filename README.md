@@ -7,6 +7,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 
 ## WWDC 2025
 - [x] 101 Keynote
+- [x] 102 Platforms State of the Union
 - [x] 220 Say hello to the new look of app icons
 
 ## WWDC 2024
