@@ -9,6 +9,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 101 Keynote
 - [x] 102 Platforms State of the Union
 - [x] 220 Say hello to the new look of app icons
+- [x] 323 Build a SwiftUI app with the new design
 
 ## WWDC 2024
 - [x] 101 Keynote
