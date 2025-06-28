@@ -8,6 +8,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 ## WWDC 2025
 - [x] 101 Keynote
 - [x] 102 Platforms State of the Union
+- [x] 219 Meet Liquid Glass
 - [x] 220 Say hello to the new look of app icons
 - [x] 323 Build a SwiftUI app with the new design
 
