@@ -28,6 +28,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 102 Platforms State of the Union
 - [x] 10149 Discover Observation in SwiftUI
 - [x] 10154 Build an app with SwiftData
+- [x] 10157 Wind your way through advanced animations in SwiftUI
 - [x] 10159 Beyond scroll views
 - [x] 10161 Inspectors in SwiftUI: Discover the details
 - [x] 10162 The SwiftUI cookbook for focus
