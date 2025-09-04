@@ -10,6 +10,7 @@ Present what I learned from WWDC each year. Purpose to work as a Learning Note
 - [x] 102 Platforms State of the Union
 - [x] 219 Meet Liquid Glass
 - [x] 220 Say hello to the new look of app icons
+- [x] 306 Optimize SwiftUI performance with Instruments
 - [x] 323 Build a SwiftUI app with the new design
 - [x] 361 Create icons with Icon Composer
 
